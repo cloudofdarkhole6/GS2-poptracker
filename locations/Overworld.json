@@ -1,0 +1,3270 @@
+[
+    {
+        "name": "Overworld Hints",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Weyard - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "4th Party Member - Venus Djinni Flint - hint",
+                        "ref": "Weyard - hint/ - hint/4th Party Member - hint/Venus Djinni Flint - hint"
+                    },
+                    {
+                        "name": "5th Party Member - Venus Djinni Granite - hint",
+                        "ref": "Weyard - hint/5th Party Member - hint/Venus Djinni Granite - hint"
+                    },
+                    {
+                        "name": "5th Party Member - Mercury Djinni Fizz - hint",
+                        "ref": "Weyard - hint/5th Party Member - hint/Mercury Djinni Fizz - hint"
+                    },
+                    {
+                        "name": "5th Party Member - Mars Djinni Fever - hint",
+                        "ref": "Weyard - hint/5th Party Member - hint/Mars Djinni Fever - hint"
+                    },
+                    {
+                        "name": "5th Party Member - Jupiter Djinni Breeze - hint",
+                        "ref": "Weyard - hint/5th Party Member - hint/Jupiter Djinni Breeze - hint"
+                    },
+                    {
+                        "name": "6th Party Member - Venus Djinni Quartz - hint",
+                        "ref": "Weyard - hint/6th Party Member - hint/Venus Djinni Quartz - hint"
+                    },
+                    {
+                        "name": "6th Party Member - Mercury Djinni Sleet - hint",
+                        "ref": "Weyard - hint/6th Party Member - hint/Mercury Djinni Sleet - hint"
+                    },
+                    {
+                        "name": "6th Party Member - Mercury Djinni Mist - hint",
+                        "ref": "Weyard - hint/6th Party Member - hint/Mercury Djinni Mist - hint"
+                    },
+                    {
+                        "name": "6th Party Member - Mars Djinni Corona - hint",
+                        "ref": "Weyard - hint/6th Party Member - hint/Mars Djinni Corona - hint"
+                    },
+                    {
+                        "name": "6th Party Member - Jupiter Djinni Zephyr - hint",
+                        "ref": "Weyard - hint/6th Party Member - hint/Jupiter Djinni Zephyr - hint"
+                    },
+                    {
+                        "name": "7th Party Member - Venus Djinni Vine - hint",
+                        "ref": "Weyard - hint/7th Party Member - hint/Venus Djinni Vine - hint"
+                    },
+                    {
+                        "name": "7th Party Member - Venus Djinni Sap - hint",
+                        "ref": "Weyard - hint/7th Party Member - hint/Venus Djinni Sap - hint"
+                    },
+                    {
+                        "name": "7th Party Member - Mercury Djinni Spritz - hint",
+                        "ref": "Weyard - hint/7th Party Member - hint/Mercury Djinni Spritz - hint"
+                    },
+                    {
+                        "name": "7th Party Member - Mercury Djinni Hail - hint",
+                        "ref": "Weyard - hint/7th Party Member - hint/Mercury Djinni Hail - hint"
+                    },
+                    {
+                        "name": "7th Party Member - Mars Djinni Scorch - hint",
+                        "ref": "Weyard - hint/7th Party Member - hint/Mars Djinni Scorch - hint"
+                    },
+                    {
+                        "name": "7th Party Member - Jupiter Djinni Smog - hint",
+                        "ref": "Weyard - hint/7th Party Member - hint/Jupiter Djinni Smog - hint"
+                    },
+                    {
+                        "name": "8th Party Member - Venus Djinni Ground - hint",
+                        "ref": "Weyard - hint/8th Party Member - hint/Venus Djinni Ground - hint"
+                    },
+                    {
+                        "name": "8th Party Member - Mercury Djinni Tonic - hint",
+                        "ref": "Weyard - hint/8th Party Member - hint/Mercury Djinni Tonic - hint"
+                    },
+                    {
+                        "name": "8th Party Member - Mars Djinni Ember - hint",
+                        "ref": "Weyard - hint/8th Party Member - hint/Mars Djinni Ember - hint"
+                    },
+                    {
+                        "name": "8th Party Member - Mars Djinni Flash - hint",
+                        "ref": "Weyard - hint/8th Party Member - hint/Mars Djinni Flash - hint"
+                    },
+                    {
+                        "name": "8th Party Member - Jupiter Djinni Kite - hint",
+                        "ref": "Weyard - hint/8th Party Member - hint/Jupiter Djinni Kite - hint"
+                    },
+                    {
+                        "name": "8th Party Member - Jupiter Djinni Squall - hint",
+                        "ref": "Weyard - hint/8th Party Member - hint/Jupiter Djinni Squall - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Venus Djinni Bane - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Venus Djinni Bane - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Jupiter Djinni Gale - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Jupiter Djinni Gale - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Entrance Rooms - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Entrance Rooms - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Entrance Rooms Two - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Entrance Rooms Two - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Entrance Rooms Three - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Entrance Rooms Three - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Entrance Rooms Four - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Entrance Rooms Four - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Entrance Rooms Five - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Entrance Rooms Five - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Entrance Rooms Six - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Entrance Rooms Six - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room South - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Main Room South - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room South Two - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Main Room South Two - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room South Three - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Main Room South Three - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room South Four - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Main Room South Four - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room South Five - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Main Room South Five - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room South Six - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Main Room South Six - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room North - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Main Room North - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room North Two - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Main Room North Two - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room North Three - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Main Room North Three - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room North Four - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Main Room North Four - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room North Five - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Main Room North Five - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room North Six - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Main Room North Six - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Three-path Room - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Three-path Room - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Mimic - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Mimic - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Depths Back - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Depths Back - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Depths Front - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Depths Front - hint"
+                    },
+                    {
+                        "name": "Treasure Isle - Azul Tablet - hint",
+                        "ref": "Weyard - hint/Treasure Isle - hint/Azul Tablet - hint"
+                    },
+                    {
+                        "name": "South of Daila - Venus Djinni Echo - hint",
+                        "ref": "Weyard - hint/South of Daila - hint/Venus Djinni Echo - hint"
+                    },
+                    {
+                        "name": "West of Madra - Venus Djinni Iron - hint",
+                        "ref": "Weyard - hint/West of Madra - hint/Venus Djinni Iron - hint"
+                    },
+                    {
+                        "name": "Gabomba Statue - Venus Djinni Steel - hint",
+                        "ref": "Weyard - hint/Gabomba Statue - hint/Venus Djinni Steel - hint"
+                    },
+                    {
+                        "name": "Gabomba Statue - Early Isaac Room - hint",
+                        "ref": "Weyard - hint/Gabomba Statue - hint/Early Isaac Room - hint"
+                    },
+                    {
+                        "name": "Gabomba Statue - Early Isaac Room Two - hint",
+                        "ref": "Weyard - hint/Gabomba Statue - hint/Early Isaac Room Two - hint"
+                    },
+                    {
+                        "name": "Gabomba Statue - Right Side Chest - hint",
+                        "ref": "Weyard - hint/Gabomba Statue - hint/Right Side Chest - hint"
+                    },
+                    {
+                        "name": "B2F - North Room Weeds - hint",
+                        "ref": "Weyard - hint/Gabomba Catacombs - hint/B2F - hint/North Room Weeds - hint"
+                    },
+                    {
+                        "name": "Gabomba Catacombs - Venus Djinni Mud - hint",
+                        "ref": "Weyard - hint/Gabomba Catacombs - hint/Venus Djinni Mud - hint"
+                    },
+                    {
+                        "name": "Gabomba Catacombs - Tomegathericon - hint",
+                        "ref": "Weyard - hint/Gabomba Catacombs - hint/Tomegathericon - hint"
+                    },
+                    {
+                        "name": "Taopa Swamp - Venus Djinni Flower - hint",
+                        "ref": "Weyard - hint/Taopa Swamp - hint/Venus Djinni Flower - hint"
+                    },
+                    {
+                        "name": "Islet Cave - Venus Djinni Meld - hint",
+                        "ref": "Weyard - hint/Islet Cave - hint/Venus Djinni Meld - hint"
+                    },
+                    {
+                        "name": "Islet Cave - Mercury Djinni Serac - hint",
+                        "ref": "Weyard - hint/Islet Cave - hint/Mercury Djinni Serac - hint"
+                    },
+                    {
+                        "name": "Islet Cave - Central Room Bottom - hint",
+                        "ref": "Weyard - hint/Islet Cave - hint/Central Room Bottom - hint"
+                    },
+                    {
+                        "name": "Islet Cave - Central Room Top - hint",
+                        "ref": "Weyard - hint/Islet Cave - hint/Central Room Top - hint"
+                    },
+                    {
+                        "name": "Islet Cave - Catastrophe Tablet - hint",
+                        "ref": "Weyard - hint/Islet Cave - hint/Catastrophe Tablet - hint"
+                    },
+                    {
+                        "name": "Northeast Of Shaman Village - Venus Djinni Petra - hint",
+                        "ref": "Weyard - hint/Northeast Of Shaman Village - hint/Venus Djinni Petra - hint"
+                    },
+                    {
+                        "name": "Contigo - Venus Djinni Salt - hint",
+                        "ref": "Weyard - hint/Contigo - hint/Venus Djinni Salt - hint"
+                    },
+                    {
+                        "name": "Contigo - Mars Djinni Shine - hint",
+                        "ref": "Weyard - hint/Contigo - hint/Mars Djinni Shine - hint"
+                    },
+                    {
+                        "name": "Contigo - Wings of Anemos - hint",
+                        "ref": "Weyard - hint/Contigo - hint/Wings of Anemos - hint"
+                    },
+                    {
+                        "name": "Contigo - North-East Barrel - hint",
+                        "ref": "Weyard - hint/Contigo - hint/North-East Barrel - hint"
+                    },
+                    {
+                        "name": "Contigo - Free Corn Sample - hint",
+                        "ref": "Weyard - hint/Contigo - hint/Free Corn Sample - hint"
+                    },
+                    {
+                        "name": "Contigo - North Weeds - hint",
+                        "ref": "Weyard - hint/Contigo - hint/North Weeds - hint"
+                    },
+                    {
+                        "name": "Contigo - Front of Anemos Sanctum - hint",
+                        "ref": "Weyard - hint/Contigo - hint/Front of Anemos Sanctum - hint"
+                    },
+                    {
+                        "name": "Contigo - Recruit Isaac - hint",
+                        "ref": "Weyard - hint/Contigo - hint/Recruit Isaac - hint"
+                    },
+                    {
+                        "name": "Contigo - Recruit Garet - hint",
+                        "ref": "Weyard - hint/Contigo - hint/Recruit Garet - hint"
+                    },
+                    {
+                        "name": "Contigo - Recruit Ivan - hint",
+                        "ref": "Weyard - hint/Contigo - hint/Recruit Ivan - hint"
+                    },
+                    {
+                        "name": "Contigo - Recruit Mia - hint",
+                        "ref": "Weyard - hint/Contigo - hint/Recruit Mia - hint"
+                    },
+                    {
+                        "name": "Atteka Inlet - Venus Djinni Geode - hint",
+                        "ref": "Weyard - hint/Atteka Inlet - hint/Venus Djinni Geode - hint"
+                    },
+                    {
+                        "name": "Atteka Inlet - Ledge Chest - hint",
+                        "ref": "Weyard - hint/Atteka Inlet - hint/Ledge Chest - hint"
+                    },
+                    {
+                        "name": "Inn - Jar - hint",
+                        "ref": "Weyard - hint/Prox - hint/Inn - hint/Jar - hint"
+                    },
+                    {
+                        "name": "Chieftain's House - Box - hint",
+                        "ref": "Weyard - hint/Prox - hint/Chieftain's House - hint/Box - hint"
+                    },
+                    {
+                        "name": "Prox - Venus Djinni Mold - hint",
+                        "ref": "Weyard - hint/Prox - hint/Venus Djinni Mold - hint"
+                    },
+                    {
+                        "name": "Prox - Mercury Djinni Dew - hint",
+                        "ref": "Weyard - hint/Prox - hint/Mercury Djinni Dew - hint"
+                    },
+                    {
+                        "name": "Prox - Half-buried Item - hint",
+                        "ref": "Weyard - hint/Prox - hint/Half-buried Item - hint"
+                    },
+                    {
+                        "name": "Prox - South-West Jar - hint",
+                        "ref": "Weyard - hint/Prox - hint/South-West Jar - hint"
+                    },
+                    {
+                        "name": "Yampi Desert Cave - Venus Djinni Crystal - hint",
+                        "ref": "Weyard - hint/Yampi Desert Cave - hint/Venus Djinni Crystal - hint"
+                    },
+                    {
+                        "name": "Yampi Desert Cave - Half-buried Item - hint",
+                        "ref": "Weyard - hint/Yampi Desert Cave - hint/Half-buried Item - hint"
+                    },
+                    {
+                        "name": "Yampi Desert Cave - Daedalus Tablet - hint",
+                        "ref": "Weyard - hint/Yampi Desert Cave - hint/Daedalus Tablet - hint"
+                    },
+                    {
+                        "name": "Yampi Desert Cave - Halfway Chest - hint",
+                        "ref": "Weyard - hint/Yampi Desert Cave - hint/Halfway Chest - hint"
+                    },
+                    {
+                        "name": "Yampi Desert Cave - Shortcut Room Chest - hint",
+                        "ref": "Weyard - hint/Yampi Desert Cave - hint/Shortcut Room Chest - hint"
+                    },
+                    {
+                        "name": "Kandorean Temple - Mercury Djinni Fog - hint",
+                        "ref": "Weyard - hint/Kandorean Temple - hint/Mercury Djinni Fog - hint"
+                    },
+                    {
+                        "name": "Kandorean Temple - Mysterious Card - hint",
+                        "ref": "Weyard - hint/Kandorean Temple - hint/Mysterious Card - hint"
+                    },
+                    {
+                        "name": "Kandorean Temple - Mimic - hint",
+                        "ref": "Weyard - hint/Kandorean Temple - hint/Mimic - hint"
+                    },
+                    {
+                        "name": "Kandorean Temple - Lash Pebble - hint",
+                        "ref": "Weyard - hint/Kandorean Temple - hint/Lash Pebble - hint"
+                    },
+                    {
+                        "name": "Northeast of Mikasalla - Mercury Djinni Sour - hint",
+                        "ref": "Weyard - hint/Northeast of Mikasalla - hint/Mercury Djinni Sour - hint"
+                    },
+                    {
+                        "name": "3rd Party Member - Mercury Djinni Spring - hint",
+                        "ref": "Weyard - hint/3rd Party Member - hint/Mercury Djinni Spring - hint"
+                    },
+                    {
+                        "name": "3rd Party Member - Mercury Djinni Shade - hint",
+                        "ref": "Weyard - hint/3rd Party Member - hint/Mercury Djinni Shade - hint"
+                    },
+                    {
+                        "name": "Southwest of Naribwe - Mercury Djinni Chill - hint",
+                        "ref": "Weyard - hint/Southwest of Naribwe - hint/Mercury Djinni Chill - hint"
+                    },
+                    {
+                        "name": "Aqua Rock - Mercury Djinni Steam - hint",
+                        "ref": "Weyard - hint/Aqua Rock - hint/Mercury Djinni Steam - hint"
+                    },
+                    {
+                        "name": "Ancient Lemuria - Mercury Djinni Rime - hint",
+                        "ref": "Weyard - hint/Ancient Lemuria - hint/Mercury Djinni Rime - hint"
+                    },
+                    {
+                        "name": "Kalt Island - Mercury Djinni Gel - hint",
+                        "ref": "Weyard - hint/Kalt Island - hint/Mercury Djinni Gel - hint"
+                    },
+                    {
+                        "name": "Shaman Village Cave - Mercury Djinni Eddy - hint",
+                        "ref": "Weyard - hint/Shaman Village Cave - hint/Mercury Djinni Eddy - hint"
+                    },
+                    {
+                        "name": "Mars Lighthouse - Mercury Djinni Balm - hint",
+                        "ref": "Weyard - hint/Mars Lighthouse - hint/Mercury Djinni Balm - hint"
+                    },
+                    {
+                        "name": "Mars Lighthouse - Mars Djinni Fugue - hint",
+                        "ref": "Weyard - hint/Mars Lighthouse - hint/Mars Djinni Fugue - hint"
+                    },
+                    {
+                        "name": "Mars Lighthouse - Doom Dragon Fight - hint",
+                        "ref": "Weyard - hint/Mars Lighthouse - hint/Doom Dragon Fight - hint"
+                    },
+                    {
+                        "name": "Mars Lighthouse - Flame Dragons fight - hint",
+                        "ref": "Weyard - hint/Mars Lighthouse - hint/Flame Dragons fight - hint"
+                    },
+                    {
+                        "name": "4th Party Member - Mars Djinni Forge - hint",
+                        "ref": "Weyard - hint/4th Party Member - hint/Mars Djinni Forge - hint"
+                    },
+                    {
+                        "name": "4th Party Member - Jupiter Djinni Gust - hint",
+                        "ref": "Weyard - hint/4th Party Member - hint/Jupiter Djinni Gust - hint"
+                    },
+                    {
+                        "name": "Magma Rock - Mars Djinni Torch - hint",
+                        "ref": "Weyard - hint/Magma Rock - hint/Mars Djinni Torch - hint"
+                    },
+                    {
+                        "name": "Magma Rock - Mars Djinni Fury - hint",
+                        "ref": "Weyard - hint/Magma Rock - hint/Mars Djinni Fury - hint"
+                    },
+                    {
+                        "name": "Dehkan Plateau - Mars Djinni Cannon - hint",
+                        "ref": "Weyard - hint/Dehkan Plateau - hint/Mars Djinni Cannon - hint"
+                    },
+                    {
+                        "name": "Dehkan Plateau - First Screen - hint",
+                        "ref": "Weyard - hint/Dehkan Plateau - hint/First Screen - hint"
+                    },
+                    {
+                        "name": "Dehkan Plateau - Second Screen Ledge - hint",
+                        "ref": "Weyard - hint/Dehkan Plateau - hint/Second Screen Ledge - hint"
+                    },
+                    {
+                        "name": "Dehkan Plateau - Second Screen Drop-down - hint",
+                        "ref": "Weyard - hint/Dehkan Plateau - hint/Second Screen Drop-down - hint"
+                    },
+                    {
+                        "name": "Dehkan Plateau - Third Screen - hint",
+                        "ref": "Weyard - hint/Dehkan Plateau - hint/Third Screen - hint"
+                    },
+                    {
+                        "name": "Dehkan Plateau - Lash Required Chest - hint",
+                        "ref": "Weyard - hint/Dehkan Plateau - hint/Lash Required Chest - hint"
+                    },
+                    {
+                        "name": "Dehkan Plateau - Pound Cube - hint",
+                        "ref": "Weyard - hint/Dehkan Plateau - hint/Pound Cube - hint"
+                    },
+                    {
+                        "name": "Inn - Barrel - hint",
+                        "ref": "Weyard - hint/Mikasalla - hint/Inn - hint/Barrel - hint"
+                    },
+                    {
+                        "name": "South-East House - Jar - hint",
+                        "ref": "Weyard - hint/Mikasalla - hint/South-East House - hint/Jar - hint"
+                    },
+                    {
+                        "name": "Mikasalla - Mars Djinni Spark - hint",
+                        "ref": "Weyard - hint/Mikasalla - hint/Mars Djinni Spark - hint"
+                    },
+                    {
+                        "name": "Mikasalla - Ledge Chest - hint",
+                        "ref": "Weyard - hint/Mikasalla - hint/Ledge Chest - hint"
+                    },
+                    {
+                        "name": "Mikasalla - South-West Box - hint",
+                        "ref": "Weyard - hint/Mikasalla - hint/South-West Box - hint"
+                    },
+                    {
+                        "name": "Mikasalla - South-East Barrel - hint",
+                        "ref": "Weyard - hint/Mikasalla - hint/South-East Barrel - hint"
+                    },
+                    {
+                        "name": "Gondowan Cliffs - Mars Djinni Kindle - hint",
+                        "ref": "Weyard - hint/Gondowan Cliffs - hint/Mars Djinni Kindle - hint"
+                    },
+                    {
+                        "name": "Gondowan Cliffs - Healing Fungus - hint",
+                        "ref": "Weyard - hint/Gondowan Cliffs - hint/Healing Fungus - hint"
+                    },
+                    {
+                        "name": "Gondowan Cliffs - Laughing Fungus - hint",
+                        "ref": "Weyard - hint/Gondowan Cliffs - hint/Laughing Fungus - hint"
+                    },
+                    {
+                        "name": "Gondowan Cliffs - Left Ledge - hint",
+                        "ref": "Weyard - hint/Gondowan Cliffs - hint/Left Ledge - hint"
+                    },
+                    {
+                        "name": "Small Central House - Barrel - hint",
+                        "ref": "Weyard - hint/Madra - hint/Small Central House - hint/Barrel - hint"
+                    },
+                    {
+                        "name": "Mayor's House - Box - hint",
+                        "ref": "Weyard - hint/Madra - hint/Mayor's House - hint/Box - hint"
+                    },
+                    {
+                        "name": "Inn - Upstairs Jar - hint",
+                        "ref": "Weyard - hint/Madra - hint/Inn - hint/Upstairs Jar - hint"
+                    },
+                    {
+                        "name": "Left Cave House - Jar - hint",
+                        "ref": "Weyard - hint/Madra - hint/Left Cave House - hint/Jar - hint"
+                    },
+                    {
+                        "name": "Madra - Mars Djinni Char - hint",
+                        "ref": "Weyard - hint/Madra - hint/Mars Djinni Char - hint"
+                    },
+                    {
+                        "name": "Madra - Ledge Chest - hint",
+                        "ref": "Weyard - hint/Madra - hint/Ledge Chest - hint"
+                    },
+                    {
+                        "name": "Madra - Fence Corner Box - hint",
+                        "ref": "Weyard - hint/Madra - hint/Fence Corner Box - hint"
+                    },
+                    {
+                        "name": "Madra - Mayor's Gift - hint",
+                        "ref": "Weyard - hint/Madra - hint/Mayor's Gift - hint"
+                    },
+                    {
+                        "name": "East House - Jar - hint",
+                        "ref": "Weyard - hint/Izumo - hint/East House - hint/Jar - hint"
+                    },
+                    {
+                        "name": "South House - Box - hint",
+                        "ref": "Weyard - hint/Izumo - hint/South House - hint/Box - hint"
+                    },
+                    {
+                        "name": "Izumo - Mars Djinni Coal - hint",
+                        "ref": "Weyard - hint/Izumo - hint/Mars Djinni Coal - hint"
+                    },
+                    {
+                        "name": "Izumo - South-East Weeds - hint",
+                        "ref": "Weyard - hint/Izumo - hint/South-East Weeds - hint"
+                    },
+                    {
+                        "name": "Izumo - South-East Weeds Two - hint",
+                        "ref": "Weyard - hint/Izumo - hint/South-East Weeds Two - hint"
+                    },
+                    {
+                        "name": "Izumo - Ledge Weeds - hint",
+                        "ref": "Weyard - hint/Izumo - hint/Ledge Weeds - hint"
+                    },
+                    {
+                        "name": "Izumo - North Ledge Jar - hint",
+                        "ref": "Weyard - hint/Izumo - hint/North Ledge Jar - hint"
+                    },
+                    {
+                        "name": "Izumo - North Jar - hint",
+                        "ref": "Weyard - hint/Izumo - hint/North Jar - hint"
+                    },
+                    {
+                        "name": "Izumo - Ulysses Tablet - hint",
+                        "ref": "Weyard - hint/Izumo - hint/Ulysses Tablet - hint"
+                    },
+                    {
+                        "name": "Izumo - Ruins Ledge - hint",
+                        "ref": "Weyard - hint/Izumo - hint/Ruins Ledge - hint"
+                    },
+                    {
+                        "name": "1F - West Room Ledge - hint",
+                        "ref": "Weyard - hint/Tundaria Tower - hint/1F - hint/West Room Ledge - hint"
+                    },
+                    {
+                        "name": "1F - West Room Ledge Two - hint",
+                        "ref": "Weyard - hint/Tundaria Tower - hint/1F - hint/West Room Ledge Two - hint"
+                    },
+                    {
+                        "name": "1F - East Room Ledge - hint",
+                        "ref": "Weyard - hint/Tundaria Tower - hint/1F - hint/East Room Ledge - hint"
+                    },
+                    {
+                        "name": "1F - East Room Ledge Two - hint",
+                        "ref": "Weyard - hint/Tundaria Tower - hint/1F - hint/East Room Ledge Two - hint"
+                    },
+                    {
+                        "name": "2F - North Room - hint",
+                        "ref": "Weyard - hint/Tundaria Tower - hint/2F - hint/North Room - hint"
+                    },
+                    {
+                        "name": "2F - South Room - hint",
+                        "ref": "Weyard - hint/Tundaria Tower - hint/2F - hint/South Room - hint"
+                    },
+                    {
+                        "name": "4F - West Room - hint",
+                        "ref": "Weyard - hint/Tundaria Tower - hint/4F - hint/West Room - hint"
+                    },
+                    {
+                        "name": "4F - West Room Two - hint",
+                        "ref": "Weyard - hint/Tundaria Tower - hint/4F - hint/West Room Two - hint"
+                    },
+                    {
+                        "name": "Tundaria Tower - Mars Djinni Reflex - hint",
+                        "ref": "Weyard - hint/Tundaria Tower - hint/Mars Djinni Reflex - hint"
+                    },
+                    {
+                        "name": "Tundaria Tower - Center Prong - hint",
+                        "ref": "Weyard - hint/Tundaria Tower - hint/Center Prong - hint"
+                    },
+                    {
+                        "name": "Tundaria Tower - Burst Brooch - hint",
+                        "ref": "Weyard - hint/Tundaria Tower - hint/Burst Brooch - hint"
+                    },
+                    {
+                        "name": "West of Contigo - Mars Djinni Core - hint",
+                        "ref": "Weyard - hint/West of Contigo - hint/Mars Djinni Core - hint"
+                    },
+                    {
+                        "name": "Hesperia Settlement - Mars Djinni Tinder - hint",
+                        "ref": "Weyard - hint/Hesperia Settlement - hint/Mars Djinni Tinder - hint"
+                    },
+                    {
+                        "name": "Hesperia Settlement - Cave Item - hint",
+                        "ref": "Weyard - hint/Hesperia Settlement - hint/Cave Item - hint"
+                    },
+                    {
+                        "name": "SW Atteka Islet - Jupiter Djinni Luff - hint",
+                        "ref": "Weyard - hint/SW Atteka Islet - hint/Jupiter Djinni Luff - hint"
+                    },
+                    {
+                        "name": "SW Atteka Islet - Gaia Falls Chest - hint",
+                        "ref": "Weyard - hint/SW Atteka Islet - hint/Gaia Falls Chest - hint"
+                    },
+                    {
+                        "name": "Shrine of the Sea God - Jupiter Djinni Breath - hint",
+                        "ref": "Weyard - hint/Shrine of the Sea God - hint/Jupiter Djinni Breath - hint"
+                    },
+                    {
+                        "name": "Shrine of the Sea God - Breaking Bridges Room - hint",
+                        "ref": "Weyard - hint/Shrine of the Sea God - hint/Breaking Bridges Room - hint"
+                    },
+                    {
+                        "name": "Shrine of the Sea God - Right Prong - hint",
+                        "ref": "Weyard - hint/Shrine of the Sea God - hint/Right Prong - hint"
+                    },
+                    {
+                        "name": "Yampi Desert - Jupiter Djinni Blitz - hint",
+                        "ref": "Weyard - hint/Yampi Desert - hint/Jupiter Djinni Blitz - hint"
+                    },
+                    {
+                        "name": "Yampi Desert - Guardian Ring - hint",
+                        "ref": "Weyard - hint/Yampi Desert - hint/Guardian Ring - hint"
+                    },
+                    {
+                        "name": "Yampi Desert - Djinni Room Chest - hint",
+                        "ref": "Weyard - hint/Yampi Desert - hint/Djinni Room Chest - hint"
+                    },
+                    {
+                        "name": "Yampi Desert - Buried Item - hint",
+                        "ref": "Weyard - hint/Yampi Desert - hint/Buried Item - hint"
+                    },
+                    {
+                        "name": "Yampi Desert - Reveal Circle - hint",
+                        "ref": "Weyard - hint/Yampi Desert - hint/Reveal Circle - hint"
+                    },
+                    {
+                        "name": "Yampi Desert - Trainer's Whip - hint",
+                        "ref": "Weyard - hint/Yampi Desert - hint/Trainer's Whip - hint"
+                    },
+                    {
+                        "name": "Yampi Desert - Sand Flow Cave South - hint",
+                        "ref": "Weyard - hint/Yampi Desert - hint/Sand Flow Cave South - hint"
+                    },
+                    {
+                        "name": "Yampi Desert - Sand Flow Cave North - hint",
+                        "ref": "Weyard - hint/Yampi Desert - hint/Sand Flow Cave North - hint"
+                    },
+                    {
+                        "name": "Yampi Desert - Yampi Desert Cave Entrance - hint",
+                        "ref": "Weyard - hint/Yampi Desert - hint/Yampi Desert Cave Entrance - hint"
+                    },
+                    {
+                        "name": "Yampi Desert - Scoop Gem - hint",
+                        "ref": "Weyard - hint/Yampi Desert - hint/Scoop Gem - hint"
+                    },
+                    {
+                        "name": "North-West Ledge - Barrel - hint",
+                        "ref": "Weyard - hint/Garoh - hint/North-West Ledge - hint/Barrel - hint"
+                    },
+                    {
+                        "name": "North-West Ledge House - Jar - hint",
+                        "ref": "Weyard - hint/Garoh - hint/North-West Ledge House - hint/Jar - hint"
+                    },
+                    {
+                        "name": "Inn - Jar - hint",
+                        "ref": "Weyard - hint/Garoh - hint/Inn - hint/Jar - hint"
+                    },
+                    {
+                        "name": "Garoh - Jupiter Djinni Ether - hint",
+                        "ref": "Weyard - hint/Garoh - hint/Jupiter Djinni Ether - hint"
+                    },
+                    {
+                        "name": "Garoh - Ledge Chest - hint",
+                        "ref": "Weyard - hint/Garoh - hint/Ledge Chest - hint"
+                    },
+                    {
+                        "name": "Garoh - South-East Barrel - hint",
+                        "ref": "Weyard - hint/Garoh - hint/South-East Barrel - hint"
+                    },
+                    {
+                        "name": "Kibombo Mountains - Jupiter Djinni Waft - hint",
+                        "ref": "Weyard - hint/Kibombo Mountains - hint/Jupiter Djinni Waft - hint"
+                    },
+                    {
+                        "name": "Kibombo Mountains - North Screen - hint",
+                        "ref": "Weyard - hint/Kibombo Mountains - hint/North Screen - hint"
+                    },
+                    {
+                        "name": "Kibombo Mountains - North Screen Two - hint",
+                        "ref": "Weyard - hint/Kibombo Mountains - hint/North Screen Two - hint"
+                    },
+                    {
+                        "name": "Kibombo Mountains - South Screen - hint",
+                        "ref": "Weyard - hint/Kibombo Mountains - hint/South Screen - hint"
+                    },
+                    {
+                        "name": "Kibombo Mountains - North Screen Cave - hint",
+                        "ref": "Weyard - hint/Kibombo Mountains - hint/North Screen Cave - hint"
+                    },
+                    {
+                        "name": "North-East Hut - Barrel - hint",
+                        "ref": "Weyard - hint/Apojii Islands - hint/North-East Hut - hint/Barrel - hint"
+                    },
+                    {
+                        "name": "Apojii Islands - Jupiter Djinni Haze - hint",
+                        "ref": "Weyard - hint/Apojii Islands - hint/Jupiter Djinni Haze - hint"
+                    },
+                    {
+                        "name": "Apojii Islands - South-East Weeds - hint",
+                        "ref": "Weyard - hint/Apojii Islands - hint/South-East Weeds - hint"
+                    },
+                    {
+                        "name": "Apojii Islands - South Weeds - hint",
+                        "ref": "Weyard - hint/Apojii Islands - hint/South Weeds - hint"
+                    },
+                    {
+                        "name": "Apojii Islands - South-West Jar - hint",
+                        "ref": "Weyard - hint/Apojii Islands - hint/South-West Jar - hint"
+                    },
+                    {
+                        "name": "Apojii Islands - Gaia Falls Weeds - hint",
+                        "ref": "Weyard - hint/Apojii Islands - hint/Gaia Falls Weeds - hint"
+                    },
+                    {
+                        "name": "Southwest of Tundaria Tower - Jupiter Djinni Wheeze - hint",
+                        "ref": "Weyard - hint/Southwest of Tundaria Tower - hint/Jupiter Djinni Wheeze - hint"
+                    },
+                    {
+                        "name": "Trial Road Side Path - Jupiter Djinni Gasp - hint",
+                        "ref": "Weyard - hint/Shaman Village - hint/Trial Road Side Path - hint/Jupiter Djinni Gasp - hint"
+                    },
+                    {
+                        "name": "Moapa's House - Barrel - hint",
+                        "ref": "Weyard - hint/Shaman Village - hint/Moapa's House - hint/Barrel - hint"
+                    },
+                    {
+                        "name": "Inn - Jar - hint",
+                        "ref": "Weyard - hint/Shaman Village - hint/Inn - hint/Jar - hint"
+                    },
+                    {
+                        "name": "Fortune Teller's Tent - Jar - hint",
+                        "ref": "Weyard - hint/Shaman Village - hint/Fortune Teller's Tent - hint/Jar - hint"
+                    },
+                    {
+                        "name": "Shaman Village - Jupiter Djinni Aroma - hint",
+                        "ref": "Weyard - hint/Shaman Village - hint/Jupiter Djinni Aroma - hint"
+                    },
+                    {
+                        "name": "Shaman Village - Moapa fight - hint",
+                        "ref": "Weyard - hint/Shaman Village - hint/Moapa fight - hint"
+                    },
+                    {
+                        "name": "Shaman Village - Next to Moapa's House - hint",
+                        "ref": "Weyard - hint/Shaman Village - hint/Next to Moapa's House - hint"
+                    },
+                    {
+                        "name": "Shaman Village - East Ledge Barrel - hint",
+                        "ref": "Weyard - hint/Shaman Village - hint/East Ledge Barrel - hint"
+                    },
+                    {
+                        "name": "Shaman Village - Sand Wall - hint",
+                        "ref": "Weyard - hint/Shaman Village - hint/Sand Wall - hint"
+                    },
+                    {
+                        "name": "Shaman Village - Trial Road Cleared - hint",
+                        "ref": "Weyard - hint/Shaman Village - hint/Trial Road Cleared - hint"
+                    },
+                    {
+                        "name": "West Wing - Mimic - hint",
+                        "ref": "Weyard - hint/Jupiter Lighthouse - hint/West Wing - hint/Mimic - hint"
+                    },
+                    {
+                        "name": "West Wing - Blue Key - hint",
+                        "ref": "Weyard - hint/Jupiter Lighthouse - hint/West Wing - hint/Blue Key - hint"
+                    },
+                    {
+                        "name": "West Wing - Middle Room - hint",
+                        "ref": "Weyard - hint/Jupiter Lighthouse - hint/West Wing - hint/Middle Room - hint"
+                    },
+                    {
+                        "name": "West Wing - Middle Room Two - hint",
+                        "ref": "Weyard - hint/Jupiter Lighthouse - hint/West Wing - hint/Middle Room Two - hint"
+                    },
+                    {
+                        "name": "East Wing - Nightmare Room - hint",
+                        "ref": "Weyard - hint/Jupiter Lighthouse - hint/East Wing - hint/Nightmare Room - hint"
+                    },
+                    {
+                        "name": "East Wing - Hover Room - hint",
+                        "ref": "Weyard - hint/Jupiter Lighthouse - hint/East Wing - hint/Hover Room - hint"
+                    },
+                    {
+                        "name": "Jupiter Lighthouse - Jupiter Djinni Whorl - hint",
+                        "ref": "Weyard - hint/Jupiter Lighthouse - hint/Jupiter Djinni Whorl - hint"
+                    },
+                    {
+                        "name": "Jupiter Lighthouse - Entrance Weeds - hint",
+                        "ref": "Weyard - hint/Jupiter Lighthouse - hint/Entrance Weeds - hint"
+                    },
+                    {
+                        "name": "Jupiter Lighthouse - Rolling Pillar Room - hint",
+                        "ref": "Weyard - hint/Jupiter Lighthouse - hint/Rolling Pillar Room - hint"
+                    },
+                    {
+                        "name": "Jupiter Lighthouse - East Wing Approach - hint",
+                        "ref": "Weyard - hint/Jupiter Lighthouse - hint/East Wing Approach - hint"
+                    },
+                    {
+                        "name": "Jupiter Lighthouse - Reveal Circle - hint",
+                        "ref": "Weyard - hint/Jupiter Lighthouse - hint/Reveal Circle - hint"
+                    },
+                    {
+                        "name": "Jupiter Lighthouse - Jumping Pillar Room - hint",
+                        "ref": "Weyard - hint/Jupiter Lighthouse - hint/Jumping Pillar Room - hint"
+                    },
+                    {
+                        "name": "Jupiter Lighthouse - Red Key - hint",
+                        "ref": "Weyard - hint/Jupiter Lighthouse - hint/Red Key - hint"
+                    },
+                    {
+                        "name": "Loho - Jupiter Djinni Lull - hint",
+                        "ref": "Weyard - hint/Loho - hint/Jupiter Djinni Lull - hint"
+                    },
+                    {
+                        "name": "Loho - South Buried Item - hint",
+                        "ref": "Weyard - hint/Loho - hint/South Buried Item - hint"
+                    },
+                    {
+                        "name": "Loho - Half-buried Item - hint",
+                        "ref": "Weyard - hint/Loho - hint/Half-buried Item - hint"
+                    },
+                    {
+                        "name": "Loho - Item Under Boulder - hint",
+                        "ref": "Weyard - hint/Loho - hint/Item Under Boulder - hint"
+                    },
+                    {
+                        "name": "Loho - South-East Barrel - hint",
+                        "ref": "Weyard - hint/Loho - hint/South-East Barrel - hint"
+                    },
+                    {
+                        "name": "Gaia Rock - Serpent Fight - hint",
+                        "ref": "Weyard - hint/Gaia Rock - hint/Serpent Fight - hint"
+                    },
+                    {
+                        "name": "Gaia Rock - Cliff Ledge Chest - hint",
+                        "ref": "Weyard - hint/Gaia Rock - hint/Cliff Ledge Chest - hint"
+                    },
+                    {
+                        "name": "Gaia Rock - Dancing Idol - hint",
+                        "ref": "Weyard - hint/Gaia Rock - hint/Dancing Idol - hint"
+                    },
+                    {
+                        "name": "Gaia Rock - Summit Chest - hint",
+                        "ref": "Weyard - hint/Gaia Rock - hint/Summit Chest - hint"
+                    },
+                    {
+                        "name": "Gaia Rock - Maze Items - hint",
+                        "ref": "Weyard - hint/Gaia Rock - hint/Maze Items - hint"
+                    },
+                    {
+                        "name": "Gaia Rock - Maze Items Two - hint",
+                        "ref": "Weyard - hint/Gaia Rock - hint/Maze Items Two - hint"
+                    },
+                    {
+                        "name": "Gaia Rock - Cloud Brand - hint",
+                        "ref": "Weyard - hint/Gaia Rock - hint/Cloud Brand - hint"
+                    },
+                    {
+                        "name": "Gaia Rock - Sand Tablet - hint",
+                        "ref": "Weyard - hint/Gaia Rock - hint/Sand Tablet - hint"
+                    },
+                    {
+                        "name": "Sea of Time - Poseidon fight - hint",
+                        "ref": "Weyard - hint/Sea of Time - hint/Poseidon fight - hint"
+                    },
+                    {
+                        "name": "Entrance - Barrel - hint",
+                        "ref": "Weyard - hint/Lemurian Ship - hint/Entrance - hint/Barrel - hint"
+                    },
+                    {
+                        "name": "Large Room - Box - hint",
+                        "ref": "Weyard - hint/Lemurian Ship - hint/Large Room - hint/Box - hint"
+                    },
+                    {
+                        "name": "Aqua Hydra Room - Barrel - hint",
+                        "ref": "Weyard - hint/Lemurian Ship - hint/Aqua Hydra Room - hint/Barrel - hint"
+                    },
+                    {
+                        "name": "Lemurian Ship - Aqua Hydra fight - hint",
+                        "ref": "Weyard - hint/Lemurian Ship - hint/Aqua Hydra fight - hint"
+                    },
+                    {
+                        "name": "Lemurian Ship - Engine Room - hint",
+                        "ref": "Weyard - hint/Lemurian Ship - hint/Engine Room - hint"
+                    },
+                    {
+                        "name": "Lemurian Ship - Frost Pillar - hint",
+                        "ref": "Weyard - hint/Lemurian Ship - hint/Frost Pillar - hint"
+                    },
+                    {
+                        "name": "Lemurian Ship - Submerged Chest - hint",
+                        "ref": "Weyard - hint/Lemurian Ship - hint/Submerged Chest - hint"
+                    },
+                    {
+                        "name": "Jupiter_Lighthouse Aeri - Agatio and Karst fight - hint",
+                        "ref": "Weyard - hint/Jupiter_Lighthouse Aeri - hint/Agatio and Karst fight - hint"
+                    },
+                    {
+                        "name": "Inn - Barrel - hint",
+                        "ref": "Weyard - hint/Daila - hint/Inn - hint/Barrel - hint"
+                    },
+                    {
+                        "name": "Corner House - Jar - hint",
+                        "ref": "Weyard - hint/Daila - hint/Corner House - hint/Jar - hint"
+                    },
+                    {
+                        "name": "Mayor's House - Jar - hint",
+                        "ref": "Weyard - hint/Daila - hint/Mayor's House - hint/Jar - hint"
+                    },
+                    {
+                        "name": "Daila - North-East Jar - hint",
+                        "ref": "Weyard - hint/Daila - hint/North-East Jar - hint"
+                    },
+                    {
+                        "name": "Daila - South-West Barrel - hint",
+                        "ref": "Weyard - hint/Daila - hint/South-West Barrel - hint"
+                    },
+                    {
+                        "name": "Daila - Buried Item - hint",
+                        "ref": "Weyard - hint/Daila - hint/Buried Item - hint"
+                    },
+                    {
+                        "name": "Daila - Sea God's Tear - hint",
+                        "ref": "Weyard - hint/Daila - hint/Sea God's Tear - hint"
+                    },
+                    {
+                        "name": "House - Barrel - hint",
+                        "ref": "Weyard - hint/N Osenia Islet - hint/House - hint/Barrel - hint"
+                    },
+                    {
+                        "name": "N Osenia Islet - Cow's Treasure - hint",
+                        "ref": "Weyard - hint/N Osenia Islet - hint/Cow's Treasure - hint"
+                    },
+                    {
+                        "name": "Madra Catacombs - Main Cave East - hint",
+                        "ref": "Weyard - hint/Madra Catacombs - hint/Main Cave East - hint"
+                    },
+                    {
+                        "name": "Madra Catacombs - Main Cave South - hint",
+                        "ref": "Weyard - hint/Madra Catacombs - hint/Main Cave South - hint"
+                    },
+                    {
+                        "name": "Madra Catacombs - Ruins West Room - hint",
+                        "ref": "Weyard - hint/Madra Catacombs - hint/Ruins West Room - hint"
+                    },
+                    {
+                        "name": "Madra Catacombs - Ruin Key - hint",
+                        "ref": "Weyard - hint/Madra Catacombs - hint/Ruin Key - hint"
+                    },
+                    {
+                        "name": "Madra Catacombs - Tremor Bit - hint",
+                        "ref": "Weyard - hint/Madra Catacombs - hint/Tremor Bit - hint"
+                    },
+                    {
+                        "name": "Madra Catacombs - Moloch Tablet - hint",
+                        "ref": "Weyard - hint/Madra Catacombs - hint/Moloch Tablet - hint"
+                    },
+                    {
+                        "name": "Osenia Cliffs - Pirate Sword - hint",
+                        "ref": "Weyard - hint/Osenia Cliffs - hint/Pirate Sword - hint"
+                    },
+                    {
+                        "name": "Eastern Alhafra - Jar - hint",
+                        "ref": "Weyard - hint/Alhafra - hint/Eastern Alhafra - hint/Jar - hint"
+                    },
+                    {
+                        "name": "Upper Long House - Barrel - hint",
+                        "ref": "Weyard - hint/Alhafra - hint/Upper Long House - hint/Barrel - hint"
+                    },
+                    {
+                        "name": "Inn - Upstairs Jar - hint",
+                        "ref": "Weyard - hint/Alhafra - hint/Inn - hint/Upstairs Jar - hint"
+                    },
+                    {
+                        "name": "Jail - Jar - hint",
+                        "ref": "Weyard - hint/Alhafra - hint/Jail - hint/Jar - hint"
+                    },
+                    {
+                        "name": "Alhafra - Reveal Circle - hint",
+                        "ref": "Weyard - hint/Alhafra - hint/Reveal Circle - hint"
+                    },
+                    {
+                        "name": "Alhafra - West Jar - hint",
+                        "ref": "Weyard - hint/Alhafra - hint/West Jar - hint"
+                    },
+                    {
+                        "name": "Alhafra - North-East Jar - hint",
+                        "ref": "Weyard - hint/Alhafra - hint/North-East Jar - hint"
+                    },
+                    {
+                        "name": "Alhafra - Outside Mayor's House East Box - hint",
+                        "ref": "Weyard - hint/Alhafra - hint/Outside Mayor's House East Box - hint"
+                    },
+                    {
+                        "name": "Alhafra - Cave Left Side - hint",
+                        "ref": "Weyard - hint/Alhafra - hint/Cave Left Side - hint"
+                    },
+                    {
+                        "name": "Alhafra - Cave Left Side Two - hint",
+                        "ref": "Weyard - hint/Alhafra - hint/Cave Left Side Two - hint"
+                    },
+                    {
+                        "name": "Alhafra - Cave Left Side Three - hint",
+                        "ref": "Weyard - hint/Alhafra - hint/Cave Left Side Three - hint"
+                    },
+                    {
+                        "name": "Alhafra - Cave Right Side - hint",
+                        "ref": "Weyard - hint/Alhafra - hint/Cave Right Side - hint"
+                    },
+                    {
+                        "name": "Alhafra - Cave Right Side Two - hint",
+                        "ref": "Weyard - hint/Alhafra - hint/Cave Right Side Two - hint"
+                    },
+                    {
+                        "name": "Alhafra - Cave Right Side Three - hint",
+                        "ref": "Weyard - hint/Alhafra - hint/Cave Right Side Three - hint"
+                    },
+                    {
+                        "name": "House - Jar - hint",
+                        "ref": "Weyard - hint/E Tundaria Islet - hint/House - hint/Jar - hint"
+                    },
+                    {
+                        "name": "E Tundaria Islet - Penguin's Treasure - hint",
+                        "ref": "Weyard - hint/E Tundaria Islet - hint/Penguin's Treasure - hint"
+                    },
+                    {
+                        "name": "First Room - Lower Left - hint",
+                        "ref": "Weyard - hint/Air's Rock Exterior - hint/First Room - hint/Lower Left - hint"
+                    },
+                    {
+                        "name": "First Room - Middle - hint",
+                        "ref": "Weyard - hint/Air's Rock Exterior - hint/First Room - hint/Middle - hint"
+                    },
+                    {
+                        "name": "First Room - Top Right - hint",
+                        "ref": "Weyard - hint/Air's Rock Exterior - hint/First Room - hint/Top Right - hint"
+                    },
+                    {
+                        "name": "First Room - Mimic - hint",
+                        "ref": "Weyard - hint/Air's Rock Exterior - hint/First Room - hint/Mimic - hint"
+                    },
+                    {
+                        "name": "Air's Rock Exterior - Frost Ledge - hint",
+                        "ref": "Weyard - hint/Air's Rock Exterior - hint/Frost Ledge - hint"
+                    },
+                    {
+                        "name": "Air's Rock Exterior - Cliff Ascent - hint",
+                        "ref": "Weyard - hint/Air's Rock Exterior - hint/Cliff Ascent - hint"
+                    },
+                    {
+                        "name": "Air's Rock Exterior - Summit Chest - hint",
+                        "ref": "Weyard - hint/Air's Rock Exterior - hint/Summit Chest - hint"
+                    },
+                    {
+                        "name": "Left Path - Blue 2 Room - hint",
+                        "ref": "Weyard - hint/Air's Rock Interior - hint/Left Path - hint/Blue 2 Room - hint"
+                    },
+                    {
+                        "name": "Left Path - Blue 5 Room - hint",
+                        "ref": "Weyard - hint/Air's Rock Interior - hint/Left Path - hint/Blue 5 Room - hint"
+                    },
+                    {
+                        "name": "Left Path - Blue 4 Room - hint",
+                        "ref": "Weyard - hint/Air's Rock Interior - hint/Left Path - hint/Blue 4 Room - hint"
+                    },
+                    {
+                        "name": "Air's Rock Interior - Top Floor - hint",
+                        "ref": "Weyard - hint/Air's Rock Interior - hint/Top Floor - hint"
+                    },
+                    {
+                        "name": "Air's Rock Interior - Right Path - hint",
+                        "ref": "Weyard - hint/Air's Rock Interior - hint/Right Path - hint"
+                    },
+                    {
+                        "name": "Air's Rock Interior - Tablet Room Chest - hint",
+                        "ref": "Weyard - hint/Air's Rock Interior - hint/Tablet Room Chest - hint"
+                    },
+                    {
+                        "name": "Air's Rock Interior - Flora Tablet - hint",
+                        "ref": "Weyard - hint/Air's Rock Interior - hint/Flora Tablet - hint"
+                    },
+                    {
+                        "name": "Air's Rock Interior - Reveal Tablet - hint",
+                        "ref": "Weyard - hint/Air's Rock Interior - hint/Reveal Tablet - hint"
+                    },
+                    {
+                        "name": "North-West House - Jar - hint",
+                        "ref": "Weyard - hint/Naribwe - hint/North-West House - hint/Jar - hint"
+                    },
+                    {
+                        "name": "Inn - Jar - hint",
+                        "ref": "Weyard - hint/Naribwe - hint/Inn - hint/Jar - hint"
+                    },
+                    {
+                        "name": "Naribwe - Thorn Crown - hint",
+                        "ref": "Weyard - hint/Naribwe - hint/Thorn Crown - hint"
+                    },
+                    {
+                        "name": "Naribwe - Reveal Circle - hint",
+                        "ref": "Weyard - hint/Naribwe - hint/Reveal Circle - hint"
+                    },
+                    {
+                        "name": "Naribwe - South-West Jar - hint",
+                        "ref": "Weyard - hint/Naribwe - hint/South-West Jar - hint"
+                    },
+                    {
+                        "name": "North-West House - Jar - hint",
+                        "ref": "Weyard - hint/Kibombo - hint/North-West House - hint/Jar - hint"
+                    },
+                    {
+                        "name": "Inn - Upstairs Barrel - hint",
+                        "ref": "Weyard - hint/Kibombo - hint/Inn - hint/Upstairs Barrel - hint"
+                    },
+                    {
+                        "name": "Kibombo - West Jar - hint",
+                        "ref": "Weyard - hint/Kibombo - hint/West Jar - hint"
+                    },
+                    {
+                        "name": "Kibombo - Recruit Piers - hint",
+                        "ref": "Weyard - hint/Kibombo - hint/Recruit Piers - hint"
+                    },
+                    {
+                        "name": "West Indra Islet - North-West Barrel - hint",
+                        "ref": "Weyard - hint/West Indra Islet - hint/North-West Barrel - hint"
+                    },
+                    {
+                        "name": "West Indra Islet - Dog's Treasure - hint",
+                        "ref": "Weyard - hint/West Indra Islet - hint/Dog's Treasure - hint"
+                    },
+                    {
+                        "name": "SE Angara Islet - South-East Box - hint",
+                        "ref": "Weyard - hint/SE Angara Islet - hint/South-East Box - hint"
+                    },
+                    {
+                        "name": "SE Angara Islet - Bird's Treasure - hint",
+                        "ref": "Weyard - hint/SE Angara Islet - hint/Bird's Treasure - hint"
+                    },
+                    {
+                        "name": "House - Barrel - hint",
+                        "ref": "Weyard - hint/Sea of Time Islet - hint/House - hint/Barrel - hint"
+                    },
+                    {
+                        "name": "Inn - Box - hint",
+                        "ref": "Weyard - hint/Yallam - hint/Inn - hint/Box - hint"
+                    },
+                    {
+                        "name": "Sunshine's Smithy - Barrel - hint",
+                        "ref": "Weyard - hint/Yallam - hint/Sunshine's Smithy - hint/Barrel - hint"
+                    },
+                    {
+                        "name": "Yallam - East Weeds - hint",
+                        "ref": "Weyard - hint/Yallam - hint/East Weeds - hint"
+                    },
+                    {
+                        "name": "Yallam - North Jar - hint",
+                        "ref": "Weyard - hint/Yallam - hint/North Jar - hint"
+                    },
+                    {
+                        "name": "Yallam - Central Ledge Weeds - hint",
+                        "ref": "Weyard - hint/Yallam - hint/Central Ledge Weeds - hint"
+                    },
+                    {
+                        "name": "Yallam - Masamune - hint",
+                        "ref": "Weyard - hint/Yallam - hint/Masamune - hint"
+                    },
+                    {
+                        "name": "North-West Cave - Half-buried Item - hint",
+                        "ref": "Weyard - hint/Taopo Swamp - hint/North-West Cave - hint/Half-buried Item - hint"
+                    },
+                    {
+                        "name": "South-East Cave - Half-buried Item - hint",
+                        "ref": "Weyard - hint/Taopo Swamp - hint/South-East Cave - hint/Half-buried Item - hint"
+                    },
+                    {
+                        "name": "South-East Cave - Weeds - hint",
+                        "ref": "Weyard - hint/Taopo Swamp - hint/South-East Cave - hint/Weeds - hint"
+                    },
+                    {
+                        "name": "Taopo Swamp - First Screen - hint",
+                        "ref": "Weyard - hint/Taopo Swamp - hint/First Screen - hint"
+                    },
+                    {
+                        "name": "Taopo Swamp - Magma Chamber - hint",
+                        "ref": "Weyard - hint/Taopo Swamp - hint/Magma Chamber - hint"
+                    },
+                    {
+                        "name": "Taopo Swamp - Star Dust - hint",
+                        "ref": "Weyard - hint/Taopo Swamp - hint/Star Dust - hint"
+                    },
+                    {
+                        "name": "1F - Top Ledge - hint",
+                        "ref": "Weyard - hint/Aqua Rock Exterior - hint/1F - hint/Top Ledge - hint"
+                    },
+                    {
+                        "name": "1F - Middle Ledge - hint",
+                        "ref": "Weyard - hint/Aqua Rock Exterior - hint/1F - hint/Middle Ledge - hint"
+                    },
+                    {
+                        "name": "2F - Frost Pillars - hint",
+                        "ref": "Weyard - hint/Aqua Rock Exterior - hint/2F - hint/Frost Pillars - hint"
+                    },
+                    {
+                        "name": "2F - Waterfall - hint",
+                        "ref": "Weyard - hint/Aqua Rock Exterior - hint/2F - hint/Waterfall - hint"
+                    },
+                    {
+                        "name": "1F - Left Side - hint",
+                        "ref": "Weyard - hint/Aqua Rock Interior - hint/1F - hint/Left Side - hint"
+                    },
+                    {
+                        "name": "1F - Mimic - hint",
+                        "ref": "Weyard - hint/Aqua Rock Interior - hint/1F - hint/Mimic - hint"
+                    },
+                    {
+                        "name": "1F - Aquarius Stone - hint",
+                        "ref": "Weyard - hint/Aqua Rock Interior - hint/1F - hint/Aquarius Stone - hint"
+                    },
+                    {
+                        "name": "1F - Main Room Left - hint",
+                        "ref": "Weyard - hint/Aqua Rock Interior - hint/1F - hint/Main Room Left - hint"
+                    },
+                    {
+                        "name": "1F - Submerged Chest - hint",
+                        "ref": "Weyard - hint/Aqua Rock Interior - hint/1F - hint/Submerged Chest - hint"
+                    },
+                    {
+                        "name": "3F - Entrance Room South - hint",
+                        "ref": "Weyard - hint/Aqua Rock Interior - hint/3F - hint/Entrance Room South - hint"
+                    },
+                    {
+                        "name": "3F - Steam Ledge - hint",
+                        "ref": "Weyard - hint/Aqua Rock Interior - hint/3F - hint/Steam Ledge - hint"
+                    },
+                    {
+                        "name": "2F - Waterfall - hint",
+                        "ref": "Weyard - hint/Aqua Rock Interior - hint/2F - hint/Waterfall - hint"
+                    },
+                    {
+                        "name": "Aqua Rock Interior - Parch Tablet - hint",
+                        "ref": "Weyard - hint/Aqua Rock Interior - hint/Parch Tablet - hint"
+                    },
+                    {
+                        "name": "Cave - Upper Ledge Jar - hint",
+                        "ref": "Weyard - hint/Champa - hint/Cave - hint/Upper Ledge Jar - hint"
+                    },
+                    {
+                        "name": "Inn - Box - hint",
+                        "ref": "Weyard - hint/Champa - hint/Inn - hint/Box - hint"
+                    },
+                    {
+                        "name": "1F Cave House - Barrel - hint",
+                        "ref": "Weyard - hint/Champa - hint/1F Cave House - hint/Barrel - hint"
+                    },
+                    {
+                        "name": "Champa - Reveal Circle - hint",
+                        "ref": "Weyard - hint/Champa - hint/Reveal Circle - hint"
+                    },
+                    {
+                        "name": "Champa - West Box - hint",
+                        "ref": "Weyard - hint/Champa - hint/West Box - hint"
+                    },
+                    {
+                        "name": "Champa - East Box - hint",
+                        "ref": "Weyard - hint/Champa - hint/East Box - hint"
+                    },
+                    {
+                        "name": "Champa - Trident - hint",
+                        "ref": "Weyard - hint/Champa - hint/Trident - hint"
+                    },
+                    {
+                        "name": "Left Path - Sand Path - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Left Path - hint/Sand Path - hint"
+                    },
+                    {
+                        "name": "Left Path - Filled Pit - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Left Path - hint/Filled Pit - hint"
+                    },
+                    {
+                        "name": "Left Path - Winding Path - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Left Path - hint/Winding Path - hint"
+                    },
+                    {
+                        "name": "Left Path - Thanatos Mace - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Left Path - hint/Thanatos Mace - hint"
+                    },
+                    {
+                        "name": "Right Path - Behind Ivy - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Right Path - hint/Behind Ivy - hint"
+                    },
+                    {
+                        "name": "Right Path - After Roadblock - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Right Path - hint/After Roadblock - hint"
+                    },
+                    {
+                        "name": "Right Path - Ledge Chest - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Right Path - hint/Ledge Chest - hint"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Entrance Rooms - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Entrance Rooms - hint"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Entrance Rooms Two - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Entrance Rooms Two - hint"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Entrance Rooms Three - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Entrance Rooms Three - hint"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Entrance Rooms Four - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Entrance Rooms Four - hint"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Entrance Rooms Five - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Entrance Rooms Five - hint"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Entrance Rooms Six - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Entrance Rooms Six - hint"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Face Rooms 2 and 7 - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Face Rooms 2 and 7 - hint"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Face Rooms 1 and 6 - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Face Rooms 1 and 6 - hint"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Face Rooms 2 and 7 Two - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Face Rooms 2 and 7 Two - hint"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Left Prong - hint",
+                        "ref": "Weyard - hint/Ankohl Ruins - hint/Left Prong - hint"
+                    },
+                    {
+                        "name": "Castle - 1F East Room Barrel - hint",
+                        "ref": "Weyard - hint/Lemuria - hint/Castle - hint/1F East Room Barrel - hint"
+                    },
+                    {
+                        "name": "Lemuria - South Buried Item - hint",
+                        "ref": "Weyard - hint/Lemuria - hint/South Buried Item - hint"
+                    },
+                    {
+                        "name": "Lemuria - East Buried Item - hint",
+                        "ref": "Weyard - hint/Lemuria - hint/East Buried Item - hint"
+                    },
+                    {
+                        "name": "Lemuria - South-East Weeds - hint",
+                        "ref": "Weyard - hint/Lemuria - hint/South-East Weeds - hint"
+                    },
+                    {
+                        "name": "Lemuria - Central Buried Item - hint",
+                        "ref": "Weyard - hint/Lemuria - hint/Central Buried Item - hint"
+                    },
+                    {
+                        "name": "Lemuria - North Buried Item - hint",
+                        "ref": "Weyard - hint/Lemuria - hint/North Buried Item - hint"
+                    },
+                    {
+                        "name": "Lemuria - Grindstone - hint",
+                        "ref": "Weyard - hint/Lemuria - hint/Grindstone - hint"
+                    },
+                    {
+                        "name": "Lemuria - Eclipse Tablet - hint",
+                        "ref": "Weyard - hint/Lemuria - hint/Eclipse Tablet - hint"
+                    },
+                    {
+                        "name": "Gondowan Settlement - Cave Item - hint",
+                        "ref": "Weyard - hint/Gondowan Settlement - hint/Cave Item - hint"
+                    },
+                    {
+                        "name": "Gondowan Settlement - Graveyard - hint",
+                        "ref": "Weyard - hint/Gondowan Settlement - hint/Graveyard - hint"
+                    },
+                    {
+                        "name": "1F - Ledge - hint",
+                        "ref": "Weyard - hint/Magma Rock Exterior - hint/1F - hint/Ledge - hint"
+                    },
+                    {
+                        "name": "2F West - Bottom - hint",
+                        "ref": "Weyard - hint/Magma Rock Exterior - hint/2F West - hint/Bottom - hint"
+                    },
+                    {
+                        "name": "2F West - Top - hint",
+                        "ref": "Weyard - hint/Magma Rock Exterior - hint/2F West - hint/Top - hint"
+                    },
+                    {
+                        "name": "4F - West Side - hint",
+                        "ref": "Weyard - hint/Magma Rock Interior - hint/4F - hint/West Side - hint"
+                    },
+                    {
+                        "name": "3F - West Side - hint",
+                        "ref": "Weyard - hint/Magma Rock Interior - hint/3F - hint/West Side - hint"
+                    },
+                    {
+                        "name": "2F - Center - hint",
+                        "ref": "Weyard - hint/Magma Rock Interior - hint/2F - hint/Center - hint"
+                    },
+                    {
+                        "name": "2F - North-East Sluice - hint",
+                        "ref": "Weyard - hint/Magma Rock Interior - hint/2F - hint/North-East Sluice - hint"
+                    },
+                    {
+                        "name": "Magma Rock Interior - Entrance Mimic - hint",
+                        "ref": "Weyard - hint/Magma Rock Interior - hint/Entrance Mimic - hint"
+                    },
+                    {
+                        "name": "Magma Rock Interior - Magma Ball - hint",
+                        "ref": "Weyard - hint/Magma Rock Interior - hint/Magma Ball - hint"
+                    },
+                    {
+                        "name": "Magma Rock Interior - Blaze Tablet - hint",
+                        "ref": "Weyard - hint/Magma Rock Interior - hint/Blaze Tablet - hint"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Lower) - Elevator Chest - hint",
+                        "ref": "Weyard - hint/Mars Lighthouse (Lower) - hint/Elevator Chest - hint"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Lower) - Teleport Lapis - hint",
+                        "ref": "Weyard - hint/Mars Lighthouse (Lower) - hint/Teleport Lapis - hint"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Lower) - Entrance Mimic - hint",
+                        "ref": "Weyard - hint/Mars Lighthouse (Lower) - hint/Entrance Mimic - hint"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Lower) - Orihalcon - hint",
+                        "ref": "Weyard - hint/Mars Lighthouse (Lower) - hint/Orihalcon - hint"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Lower) - Valkyrie Mail - hint",
+                        "ref": "Weyard - hint/Mars Lighthouse (Lower) - hint/Valkyrie Mail - hint"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Lower) - Sol Blade - hint",
+                        "ref": "Weyard - hint/Mars Lighthouse (Lower) - hint/Sol Blade - hint"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Lower) - Flame Dragons - hint",
+                        "ref": "Weyard - hint/Mars Lighthouse (Lower) - hint/Flame Dragons - hint"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Upper) - Chest outside Mars Wing - hint",
+                        "ref": "Weyard - hint/Mars Lighthouse (Upper) - hint/Chest outside Mars Wing - hint"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Upper) - Chest inside Jupiter Wing - hint",
+                        "ref": "Weyard - hint/Mars Lighthouse (Upper) - hint/Chest inside Jupiter Wing - hint"
+                    },
+                    {
+                        "name": "Anemos Inner Sanctum - Cracked Tile Fall Room - hint",
+                        "ref": "Weyard - hint/Anemos Inner Sanctum - hint/Cracked Tile Fall Room - hint"
+                    },
+                    {
+                        "name": "Anemos Inner Sanctum - After 3rd Clone Room - hint",
+                        "ref": "Weyard - hint/Anemos Inner Sanctum - hint/After 3rd Clone Room - hint"
+                    },
+                    {
+                        "name": "Anemos Inner Sanctum - Charon Tablet - hint",
+                        "ref": "Weyard - hint/Anemos Inner Sanctum - hint/Charon Tablet - hint"
+                    },
+                    {
+                        "name": "Anemos Inner Sanctum - Iris Tablet - hint",
+                        "ref": "Weyard - hint/Anemos Inner Sanctum - hint/Iris Tablet - hint"
+                    },
+                    {
+                        "name": "Indra Cavern - Zagan Tablet - hint",
+                        "ref": "Weyard - hint/Indra Cavern - hint/Zagan Tablet - hint"
+                    },
+                    {
+                        "name": "Osenia Cavern - Megaera Tablet - hint",
+                        "ref": "Weyard - hint/Osenia Cavern - hint/Megaera Tablet - hint"
+                    },
+                    {
+                        "name": "Angara Cavern - Haures Tablet - hint",
+                        "ref": "Weyard - hint/Angara Cavern - hint/Haures Tablet - hint"
+                    },
+                    {
+                        "name": "Atteka Cavern - Coatlicue Tablet - hint",
+                        "ref": "Weyard - hint/Atteka Cavern - hint/Coatlicue Tablet - hint"
+                    },
+                    {
+                        "name": "Sunken Item (Sea of Time) - Sunken Item - hint",
+                        "ref": "Weyard - hint/Sunken Item (Sea of Time) - hint/Sunken Item - hint"
+                    },
+                    {
+                        "name": "Sunken Item (Treasure Isle) - Sunken Item - hint",
+                        "ref": "Weyard - hint/Sunken Item (Treasure Isle) - hint/Sunken Item - hint"
+                    },
+                    {
+                        "name": "Sunken Item (Tundaria) - Sunken Item - hint",
+                        "ref": "Weyard - hint/Sunken Item (Tundaria) - hint/Sunken Item - hint"
+                    },
+                    {
+                        "name": "Sunken Item (Hesperia) - Sunken Item - hint",
+                        "ref": "Weyard - hint/Sunken Item (Hesperia) - hint/Sunken Item - hint"
+                    },
+                    {
+                        "name": "Sunken Item (Atteka) - Sunken Item - hint",
+                        "ref": "Weyard - hint/Sunken Item (Atteka) - hint/Sunken Item - hint"
+                    },
+                    {
+                        "name": "Gabomba Reward - Gabomba Reward - hint",
+                        "ref": "Weyard - hint/Gabomba Reward - hint/Gabomba Reward - hint"
+                    },
+                    {
+                        "name": "Felix - Shaman's Rod - hint",
+                        "ref": "Weyard - hint/Felix - hint/Shaman's Rod - hint"
+                    },
+                    {
+                        "name": "Felix - Growth - hint",
+                        "ref": "Weyard - hint/Felix - hint/Growth - hint"
+                    },
+                    {
+                        "name": "Sheba - Mind Read - hint",
+                        "ref": "Weyard - hint/Sheba - hint/Mind Read - hint"
+                    },
+                    {
+                        "name": "Sheba - Whirlwind - hint",
+                        "ref": "Weyard - hint/Sheba - hint/Whirlwind - hint"
+                    },
+                    {
+                        "name": "Mia - Carry Stone - hint",
+                        "ref": "Weyard - hint/Mia - hint/Carry Stone - hint"
+                    },
+                    {
+                        "name": "Ivan - Lifting Gem - hint",
+                        "ref": "Weyard - hint/Ivan - hint/Lifting Gem - hint"
+                    },
+                    {
+                        "name": "Garet - Orb of Force - hint",
+                        "ref": "Weyard - hint/Garet - hint/Orb of Force - hint"
+                    },
+                    {
+                        "name": "Isaac - Catch Beads - hint",
+                        "ref": "Weyard - hint/Isaac - hint/Catch Beads - hint"
+                    },
+                    {
+                        "name": "Piers - Douse Drop - hint",
+                        "ref": "Weyard - hint/Piers - hint/Douse Drop - hint"
+                    },
+                    {
+                        "name": "Piers - Frost Jewel - hint",
+                        "ref": "Weyard - hint/Piers - hint/Frost Jewel - hint"
+                    },
+                    {
+                        "name": "Idejima - Recruit Jenna - hint",
+                        "ref": "Weyard - hint/Idejima - hint/Recruit Jenna - hint"
+                    },
+                    {
+                        "name": "Idejima - Recruit Sheba - hint",
+                        "ref": "Weyard - hint/Idejima - hint/Recruit Sheba - hint"
+                    },
+                    {
+                        "name": "Weyard - Alhafra Briggs - hint",
+                        "ref": "Weyard - hint/Alhafra Briggs - hint"
+                    },
+                    {
+                        "name": "Weyard - Alhafra Prison Briggs - hint",
+                        "ref": "Weyard - hint/Alhafra Prison Briggs - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1099",
+                        "y": "457",
+                        "size": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Weyard",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "4th Party Member - Venus Djinni Flint",
+                        "ref": "Weyard//4th Party Member/Venus Djinni Flint"
+                    },
+                    {
+                        "name": "5th Party Member - Venus Djinni Granite",
+                        "ref": "Weyard/5th Party Member/Venus Djinni Granite"
+                    },
+                    {
+                        "name": "5th Party Member - Mercury Djinni Fizz",
+                        "ref": "Weyard/5th Party Member/Mercury Djinni Fizz"
+                    },
+                    {
+                        "name": "5th Party Member - Mars Djinni Fever",
+                        "ref": "Weyard/5th Party Member/Mars Djinni Fever"
+                    },
+                    {
+                        "name": "5th Party Member - Jupiter Djinni Breeze",
+                        "ref": "Weyard/5th Party Member/Jupiter Djinni Breeze"
+                    },
+                    {
+                        "name": "6th Party Member - Venus Djinni Quartz",
+                        "ref": "Weyard/6th Party Member/Venus Djinni Quartz"
+                    },
+                    {
+                        "name": "6th Party Member - Mercury Djinni Sleet",
+                        "ref": "Weyard/6th Party Member/Mercury Djinni Sleet"
+                    },
+                    {
+                        "name": "6th Party Member - Mercury Djinni Mist",
+                        "ref": "Weyard/6th Party Member/Mercury Djinni Mist"
+                    },
+                    {
+                        "name": "6th Party Member - Mars Djinni Corona",
+                        "ref": "Weyard/6th Party Member/Mars Djinni Corona"
+                    },
+                    {
+                        "name": "6th Party Member - Jupiter Djinni Zephyr",
+                        "ref": "Weyard/6th Party Member/Jupiter Djinni Zephyr"
+                    },
+                    {
+                        "name": "7th Party Member - Venus Djinni Vine",
+                        "ref": "Weyard/7th Party Member/Venus Djinni Vine"
+                    },
+                    {
+                        "name": "7th Party Member - Venus Djinni Sap",
+                        "ref": "Weyard/7th Party Member/Venus Djinni Sap"
+                    },
+                    {
+                        "name": "7th Party Member - Mercury Djinni Spritz",
+                        "ref": "Weyard/7th Party Member/Mercury Djinni Spritz"
+                    },
+                    {
+                        "name": "7th Party Member - Mercury Djinni Hail",
+                        "ref": "Weyard/7th Party Member/Mercury Djinni Hail"
+                    },
+                    {
+                        "name": "7th Party Member - Mars Djinni Scorch",
+                        "ref": "Weyard/7th Party Member/Mars Djinni Scorch"
+                    },
+                    {
+                        "name": "7th Party Member - Jupiter Djinni Smog",
+                        "ref": "Weyard/7th Party Member/Jupiter Djinni Smog"
+                    },
+                    {
+                        "name": "8th Party Member - Venus Djinni Ground",
+                        "ref": "Weyard/8th Party Member/Venus Djinni Ground"
+                    },
+                    {
+                        "name": "8th Party Member - Mercury Djinni Tonic",
+                        "ref": "Weyard/8th Party Member/Mercury Djinni Tonic"
+                    },
+                    {
+                        "name": "8th Party Member - Mars Djinni Ember",
+                        "ref": "Weyard/8th Party Member/Mars Djinni Ember"
+                    },
+                    {
+                        "name": "8th Party Member - Mars Djinni Flash",
+                        "ref": "Weyard/8th Party Member/Mars Djinni Flash"
+                    },
+                    {
+                        "name": "8th Party Member - Jupiter Djinni Kite",
+                        "ref": "Weyard/8th Party Member/Jupiter Djinni Kite"
+                    },
+                    {
+                        "name": "8th Party Member - Jupiter Djinni Squall",
+                        "ref": "Weyard/8th Party Member/Jupiter Djinni Squall"
+                    },
+                    {
+                        "name": "Treasure Isle - Venus Djinni Bane",
+                        "ref": "Weyard/Treasure Isle/Venus Djinni Bane"
+                    },
+                    {
+                        "name": "Treasure Isle - Jupiter Djinni Gale",
+                        "ref": "Weyard/Treasure Isle/Jupiter Djinni Gale"
+                    },
+                    {
+                        "name": "Treasure Isle - Entrance Rooms",
+                        "ref": "Weyard/Treasure Isle/Entrance Rooms"
+                    },
+                    {
+                        "name": "Treasure Isle - Entrance Rooms Two",
+                        "ref": "Weyard/Treasure Isle/Entrance Rooms Two"
+                    },
+                    {
+                        "name": "Treasure Isle - Entrance Rooms Three",
+                        "ref": "Weyard/Treasure Isle/Entrance Rooms Three"
+                    },
+                    {
+                        "name": "Treasure Isle - Entrance Rooms Four",
+                        "ref": "Weyard/Treasure Isle/Entrance Rooms Four"
+                    },
+                    {
+                        "name": "Treasure Isle - Entrance Rooms Five",
+                        "ref": "Weyard/Treasure Isle/Entrance Rooms Five"
+                    },
+                    {
+                        "name": "Treasure Isle - Entrance Rooms Six",
+                        "ref": "Weyard/Treasure Isle/Entrance Rooms Six"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room South",
+                        "ref": "Weyard/Treasure Isle/Main Room South"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room South Two",
+                        "ref": "Weyard/Treasure Isle/Main Room South Two"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room South Three",
+                        "ref": "Weyard/Treasure Isle/Main Room South Three"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room South Four",
+                        "ref": "Weyard/Treasure Isle/Main Room South Four"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room South Five",
+                        "ref": "Weyard/Treasure Isle/Main Room South Five"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room South Six",
+                        "ref": "Weyard/Treasure Isle/Main Room South Six"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room North",
+                        "ref": "Weyard/Treasure Isle/Main Room North"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room North Two",
+                        "ref": "Weyard/Treasure Isle/Main Room North Two"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room North Three",
+                        "ref": "Weyard/Treasure Isle/Main Room North Three"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room North Four",
+                        "ref": "Weyard/Treasure Isle/Main Room North Four"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room North Five",
+                        "ref": "Weyard/Treasure Isle/Main Room North Five"
+                    },
+                    {
+                        "name": "Treasure Isle - Main Room North Six",
+                        "ref": "Weyard/Treasure Isle/Main Room North Six"
+                    },
+                    {
+                        "name": "Treasure Isle - Three-path Room",
+                        "ref": "Weyard/Treasure Isle/Three-path Room"
+                    },
+                    {
+                        "name": "Treasure Isle - Mimic",
+                        "ref": "Weyard/Treasure Isle/Mimic"
+                    },
+                    {
+                        "name": "Treasure Isle - Depths Back",
+                        "ref": "Weyard/Treasure Isle/Depths Back"
+                    },
+                    {
+                        "name": "Treasure Isle - Depths Front",
+                        "ref": "Weyard/Treasure Isle/Depths Front"
+                    },
+                    {
+                        "name": "Treasure Isle - Azul Tablet",
+                        "ref": "Weyard/Treasure Isle/Azul Tablet"
+                    },
+                    {
+                        "name": "South of Daila - Venus Djinni Echo",
+                        "ref": "Weyard/South of Daila/Venus Djinni Echo"
+                    },
+                    {
+                        "name": "West of Madra - Venus Djinni Iron",
+                        "ref": "Weyard/West of Madra/Venus Djinni Iron"
+                    },
+                    {
+                        "name": "Gabomba Statue - Venus Djinni Steel",
+                        "ref": "Weyard/Gabomba Statue/Venus Djinni Steel"
+                    },
+                    {
+                        "name": "Gabomba Statue - Early Isaac Room",
+                        "ref": "Weyard/Gabomba Statue/Early Isaac Room"
+                    },
+                    {
+                        "name": "Gabomba Statue - Early Isaac Room Two",
+                        "ref": "Weyard/Gabomba Statue/Early Isaac Room Two"
+                    },
+                    {
+                        "name": "Gabomba Statue - Right Side Chest",
+                        "ref": "Weyard/Gabomba Statue/Right Side Chest"
+                    },
+                    {
+                        "name": "B2F - North Room Weeds",
+                        "ref": "Weyard/Gabomba Catacombs/B2F/North Room Weeds"
+                    },
+                    {
+                        "name": "Gabomba Catacombs - Venus Djinni Mud",
+                        "ref": "Weyard/Gabomba Catacombs/Venus Djinni Mud"
+                    },
+                    {
+                        "name": "Gabomba Catacombs - Tomegathericon",
+                        "ref": "Weyard/Gabomba Catacombs/Tomegathericon"
+                    },
+                    {
+                        "name": "Taopa Swamp - Venus Djinni Flower",
+                        "ref": "Weyard/Taopa Swamp/Venus Djinni Flower"
+                    },
+                    {
+                        "name": "Islet Cave - Venus Djinni Meld",
+                        "ref": "Weyard/Islet Cave/Venus Djinni Meld"
+                    },
+                    {
+                        "name": "Islet Cave - Mercury Djinni Serac",
+                        "ref": "Weyard/Islet Cave/Mercury Djinni Serac"
+                    },
+                    {
+                        "name": "Islet Cave - Central Room Bottom",
+                        "ref": "Weyard/Islet Cave/Central Room Bottom"
+                    },
+                    {
+                        "name": "Islet Cave - Central Room Top",
+                        "ref": "Weyard/Islet Cave/Central Room Top"
+                    },
+                    {
+                        "name": "Islet Cave - Catastrophe Tablet",
+                        "ref": "Weyard/Islet Cave/Catastrophe Tablet"
+                    },
+                    {
+                        "name": "Northeast Of Shaman Village - Venus Djinni Petra",
+                        "ref": "Weyard/Northeast Of Shaman Village/Venus Djinni Petra"
+                    },
+                    {
+                        "name": "Contigo - Venus Djinni Salt",
+                        "ref": "Weyard/Contigo/Venus Djinni Salt"
+                    },
+                    {
+                        "name": "Contigo - Mars Djinni Shine",
+                        "ref": "Weyard/Contigo/Mars Djinni Shine"
+                    },
+                    {
+                        "name": "Contigo - Wings of Anemos",
+                        "ref": "Weyard/Contigo/Wings of Anemos"
+                    },
+                    {
+                        "name": "Contigo - North-East Barrel",
+                        "ref": "Weyard/Contigo/North-East Barrel"
+                    },
+                    {
+                        "name": "Contigo - Free Corn Sample",
+                        "ref": "Weyard/Contigo/Free Corn Sample"
+                    },
+                    {
+                        "name": "Contigo - North Weeds",
+                        "ref": "Weyard/Contigo/North Weeds"
+                    },
+                    {
+                        "name": "Contigo - Front of Anemos Sanctum",
+                        "ref": "Weyard/Contigo/Front of Anemos Sanctum"
+                    },
+                    {
+                        "name": "Contigo - Recruit Isaac",
+                        "ref": "Weyard/Contigo/Recruit Isaac"
+                    },
+                    {
+                        "name": "Contigo - Recruit Garet",
+                        "ref": "Weyard/Contigo/Recruit Garet"
+                    },
+                    {
+                        "name": "Contigo - Recruit Ivan",
+                        "ref": "Weyard/Contigo/Recruit Ivan"
+                    },
+                    {
+                        "name": "Contigo - Recruit Mia",
+                        "ref": "Weyard/Contigo/Recruit Mia"
+                    },
+                    {
+                        "name": "Atteka Inlet - Venus Djinni Geode",
+                        "ref": "Weyard/Atteka Inlet/Venus Djinni Geode"
+                    },
+                    {
+                        "name": "Atteka Inlet - Ledge Chest",
+                        "ref": "Weyard/Atteka Inlet/Ledge Chest"
+                    },
+                    {
+                        "name": "Inn - Jar",
+                        "ref": "Weyard/Prox/Inn/Jar"
+                    },
+                    {
+                        "name": "Chieftain's House - Box",
+                        "ref": "Weyard/Prox/Chieftain's House/Box"
+                    },
+                    {
+                        "name": "Prox - Venus Djinni Mold",
+                        "ref": "Weyard/Prox/Venus Djinni Mold"
+                    },
+                    {
+                        "name": "Prox - Mercury Djinni Dew",
+                        "ref": "Weyard/Prox/Mercury Djinni Dew"
+                    },
+                    {
+                        "name": "Prox - Half-buried Item",
+                        "ref": "Weyard/Prox/Half-buried Item"
+                    },
+                    {
+                        "name": "Prox - South-West Jar",
+                        "ref": "Weyard/Prox/South-West Jar"
+                    },
+                    {
+                        "name": "Yampi Desert Cave - Venus Djinni Crystal",
+                        "ref": "Weyard/Yampi Desert Cave/Venus Djinni Crystal"
+                    },
+                    {
+                        "name": "Yampi Desert Cave - Half-buried Item",
+                        "ref": "Weyard/Yampi Desert Cave/Half-buried Item"
+                    },
+                    {
+                        "name": "Yampi Desert Cave - Daedalus Tablet",
+                        "ref": "Weyard/Yampi Desert Cave/Daedalus Tablet"
+                    },
+                    {
+                        "name": "Yampi Desert Cave - Halfway Chest",
+                        "ref": "Weyard/Yampi Desert Cave/Halfway Chest"
+                    },
+                    {
+                        "name": "Yampi Desert Cave - Shortcut Room Chest",
+                        "ref": "Weyard/Yampi Desert Cave/Shortcut Room Chest"
+                    },
+                    {
+                        "name": "Kandorean Temple - Mercury Djinni Fog",
+                        "ref": "Weyard/Kandorean Temple/Mercury Djinni Fog"
+                    },
+                    {
+                        "name": "Kandorean Temple - Mysterious Card",
+                        "ref": "Weyard/Kandorean Temple/Mysterious Card"
+                    },
+                    {
+                        "name": "Kandorean Temple - Mimic",
+                        "ref": "Weyard/Kandorean Temple/Mimic"
+                    },
+                    {
+                        "name": "Kandorean Temple - Lash Pebble",
+                        "ref": "Weyard/Kandorean Temple/Lash Pebble"
+                    },
+                    {
+                        "name": "Northeast of Mikasalla - Mercury Djinni Sour",
+                        "ref": "Weyard/Northeast of Mikasalla/Mercury Djinni Sour"
+                    },
+                    {
+                        "name": "3rd Party Member - Mercury Djinni Spring",
+                        "ref": "Weyard/3rd Party Member/Mercury Djinni Spring"
+                    },
+                    {
+                        "name": "3rd Party Member - Mercury Djinni Shade",
+                        "ref": "Weyard/3rd Party Member/Mercury Djinni Shade"
+                    },
+                    {
+                        "name": "Southwest of Naribwe - Mercury Djinni Chill",
+                        "ref": "Weyard/Southwest of Naribwe/Mercury Djinni Chill"
+                    },
+                    {
+                        "name": "Aqua Rock - Mercury Djinni Steam",
+                        "ref": "Weyard/Aqua Rock/Mercury Djinni Steam"
+                    },
+                    {
+                        "name": "Ancient Lemuria - Mercury Djinni Rime",
+                        "ref": "Weyard/Ancient Lemuria/Mercury Djinni Rime"
+                    },
+                    {
+                        "name": "Kalt Island - Mercury Djinni Gel",
+                        "ref": "Weyard/Kalt Island/Mercury Djinni Gel"
+                    },
+                    {
+                        "name": "Shaman Village Cave - Mercury Djinni Eddy",
+                        "ref": "Weyard/Shaman Village Cave/Mercury Djinni Eddy"
+                    },
+                    {
+                        "name": "Mars Lighthouse - Mercury Djinni Balm",
+                        "ref": "Weyard/Mars Lighthouse/Mercury Djinni Balm"
+                    },
+                    {
+                        "name": "Mars Lighthouse - Mars Djinni Fugue",
+                        "ref": "Weyard/Mars Lighthouse/Mars Djinni Fugue"
+                    },
+                    {
+                        "name": "Mars Lighthouse - Doom Dragon Fight",
+                        "ref": "Weyard/Mars Lighthouse/Doom Dragon Fight"
+                    },
+                    {
+                        "name": "Mars Lighthouse - Flame Dragons fight",
+                        "ref": "Weyard/Mars Lighthouse/Flame Dragons fight"
+                    },
+                    {
+                        "name": "4th Party Member - Mars Djinni Forge",
+                        "ref": "Weyard/4th Party Member/Mars Djinni Forge"
+                    },
+                    {
+                        "name": "4th Party Member - Jupiter Djinni Gust",
+                        "ref": "Weyard/4th Party Member/Jupiter Djinni Gust"
+                    },
+                    {
+                        "name": "Magma Rock - Mars Djinni Torch",
+                        "ref": "Weyard/Magma Rock/Mars Djinni Torch"
+                    },
+                    {
+                        "name": "Magma Rock - Mars Djinni Fury",
+                        "ref": "Weyard/Magma Rock/Mars Djinni Fury"
+                    },
+                    {
+                        "name": "Dehkan Plateau - Mars Djinni Cannon",
+                        "ref": "Weyard/Dehkan Plateau/Mars Djinni Cannon"
+                    },
+                    {
+                        "name": "Dehkan Plateau - First Screen",
+                        "ref": "Weyard/Dehkan Plateau/First Screen"
+                    },
+                    {
+                        "name": "Dehkan Plateau - Second Screen Ledge",
+                        "ref": "Weyard/Dehkan Plateau/Second Screen Ledge"
+                    },
+                    {
+                        "name": "Dehkan Plateau - Second Screen Drop-down",
+                        "ref": "Weyard/Dehkan Plateau/Second Screen Drop-down"
+                    },
+                    {
+                        "name": "Dehkan Plateau - Third Screen",
+                        "ref": "Weyard/Dehkan Plateau/Third Screen"
+                    },
+                    {
+                        "name": "Dehkan Plateau - Lash Required Chest",
+                        "ref": "Weyard/Dehkan Plateau/Lash Required Chest"
+                    },
+                    {
+                        "name": "Dehkan Plateau - Pound Cube",
+                        "ref": "Weyard/Dehkan Plateau/Pound Cube"
+                    },
+                    {
+                        "name": "Inn - Barrel",
+                        "ref": "Weyard/Mikasalla/Inn/Barrel"
+                    },
+                    {
+                        "name": "South-East House - Jar",
+                        "ref": "Weyard/Mikasalla/South-East House/Jar"
+                    },
+                    {
+                        "name": "Mikasalla - Mars Djinni Spark",
+                        "ref": "Weyard/Mikasalla/Mars Djinni Spark"
+                    },
+                    {
+                        "name": "Mikasalla - Ledge Chest",
+                        "ref": "Weyard/Mikasalla/Ledge Chest"
+                    },
+                    {
+                        "name": "Mikasalla - South-West Box",
+                        "ref": "Weyard/Mikasalla/South-West Box"
+                    },
+                    {
+                        "name": "Mikasalla - South-East Barrel",
+                        "ref": "Weyard/Mikasalla/South-East Barrel"
+                    },
+                    {
+                        "name": "Gondowan Cliffs - Mars Djinni Kindle",
+                        "ref": "Weyard/Gondowan Cliffs/Mars Djinni Kindle"
+                    },
+                    {
+                        "name": "Gondowan Cliffs - Healing Fungus",
+                        "ref": "Weyard/Gondowan Cliffs/Healing Fungus"
+                    },
+                    {
+                        "name": "Gondowan Cliffs - Laughing Fungus",
+                        "ref": "Weyard/Gondowan Cliffs/Laughing Fungus"
+                    },
+                    {
+                        "name": "Gondowan Cliffs - Left Ledge",
+                        "ref": "Weyard/Gondowan Cliffs/Left Ledge"
+                    },
+                    {
+                        "name": "Small Central House - Barrel",
+                        "ref": "Weyard/Madra/Small Central House/Barrel"
+                    },
+                    {
+                        "name": "Mayor's House - Box",
+                        "ref": "Weyard/Madra/Mayor's House/Box"
+                    },
+                    {
+                        "name": "Inn - Upstairs Jar",
+                        "ref": "Weyard/Madra/Inn/Upstairs Jar"
+                    },
+                    {
+                        "name": "Left Cave House - Jar",
+                        "ref": "Weyard/Madra/Left Cave House/Jar"
+                    },
+                    {
+                        "name": "Madra - Mars Djinni Char",
+                        "ref": "Weyard/Madra/Mars Djinni Char"
+                    },
+                    {
+                        "name": "Madra - Ledge Chest",
+                        "ref": "Weyard/Madra/Ledge Chest"
+                    },
+                    {
+                        "name": "Madra - Fence Corner Box",
+                        "ref": "Weyard/Madra/Fence Corner Box"
+                    },
+                    {
+                        "name": "Madra - Mayor's Gift",
+                        "ref": "Weyard/Madra/Mayor's Gift"
+                    },
+                    {
+                        "name": "East House - Jar",
+                        "ref": "Weyard/Izumo/East House/Jar"
+                    },
+                    {
+                        "name": "South House - Box",
+                        "ref": "Weyard/Izumo/South House/Box"
+                    },
+                    {
+                        "name": "Izumo - Mars Djinni Coal",
+                        "ref": "Weyard/Izumo/Mars Djinni Coal"
+                    },
+                    {
+                        "name": "Izumo - South-East Weeds",
+                        "ref": "Weyard/Izumo/South-East Weeds"
+                    },
+                    {
+                        "name": "Izumo - South-East Weeds Two",
+                        "ref": "Weyard/Izumo/South-East Weeds Two"
+                    },
+                    {
+                        "name": "Izumo - Ledge Weeds",
+                        "ref": "Weyard/Izumo/Ledge Weeds"
+                    },
+                    {
+                        "name": "Izumo - North Ledge Jar",
+                        "ref": "Weyard/Izumo/North Ledge Jar"
+                    },
+                    {
+                        "name": "Izumo - North Jar",
+                        "ref": "Weyard/Izumo/North Jar"
+                    },
+                    {
+                        "name": "Izumo - Ulysses Tablet",
+                        "ref": "Weyard/Izumo/Ulysses Tablet"
+                    },
+                    {
+                        "name": "Izumo - Ruins Ledge",
+                        "ref": "Weyard/Izumo/Ruins Ledge"
+                    },
+                    {
+                        "name": "1F - West Room Ledge",
+                        "ref": "Weyard/Tundaria Tower/1F/West Room Ledge"
+                    },
+                    {
+                        "name": "1F - West Room Ledge Two",
+                        "ref": "Weyard/Tundaria Tower/1F/West Room Ledge Two"
+                    },
+                    {
+                        "name": "1F - East Room Ledge",
+                        "ref": "Weyard/Tundaria Tower/1F/East Room Ledge"
+                    },
+                    {
+                        "name": "1F - East Room Ledge Two",
+                        "ref": "Weyard/Tundaria Tower/1F/East Room Ledge Two"
+                    },
+                    {
+                        "name": "2F - North Room",
+                        "ref": "Weyard/Tundaria Tower/2F/North Room"
+                    },
+                    {
+                        "name": "2F - South Room",
+                        "ref": "Weyard/Tundaria Tower/2F/South Room"
+                    },
+                    {
+                        "name": "4F - West Room",
+                        "ref": "Weyard/Tundaria Tower/4F/West Room"
+                    },
+                    {
+                        "name": "4F - West Room Two",
+                        "ref": "Weyard/Tundaria Tower/4F/West Room Two"
+                    },
+                    {
+                        "name": "Tundaria Tower - Mars Djinni Reflex",
+                        "ref": "Weyard/Tundaria Tower/Mars Djinni Reflex"
+                    },
+                    {
+                        "name": "Tundaria Tower - Center Prong",
+                        "ref": "Weyard/Tundaria Tower/Center Prong"
+                    },
+                    {
+                        "name": "Tundaria Tower - Burst Brooch",
+                        "ref": "Weyard/Tundaria Tower/Burst Brooch"
+                    },
+                    {
+                        "name": "West of Contigo - Mars Djinni Core",
+                        "ref": "Weyard/West of Contigo/Mars Djinni Core"
+                    },
+                    {
+                        "name": "Hesperia Settlement - Mars Djinni Tinder",
+                        "ref": "Weyard/Hesperia Settlement/Mars Djinni Tinder"
+                    },
+                    {
+                        "name": "Hesperia Settlement - Cave Item",
+                        "ref": "Weyard/Hesperia Settlement/Cave Item"
+                    },
+                    {
+                        "name": "SW Atteka Islet - Jupiter Djinni Luff",
+                        "ref": "Weyard/SW Atteka Islet/Jupiter Djinni Luff"
+                    },
+                    {
+                        "name": "SW Atteka Islet - Gaia Falls Chest",
+                        "ref": "Weyard/SW Atteka Islet/Gaia Falls Chest"
+                    },
+                    {
+                        "name": "Shrine of the Sea God - Jupiter Djinni Breath",
+                        "ref": "Weyard/Shrine of the Sea God/Jupiter Djinni Breath"
+                    },
+                    {
+                        "name": "Shrine of the Sea God - Breaking Bridges Room",
+                        "ref": "Weyard/Shrine of the Sea God/Breaking Bridges Room"
+                    },
+                    {
+                        "name": "Shrine of the Sea God - Right Prong",
+                        "ref": "Weyard/Shrine of the Sea God/Right Prong"
+                    },
+                    {
+                        "name": "Yampi Desert - Jupiter Djinni Blitz",
+                        "ref": "Weyard/Yampi Desert/Jupiter Djinni Blitz"
+                    },
+                    {
+                        "name": "Yampi Desert - Guardian Ring",
+                        "ref": "Weyard/Yampi Desert/Guardian Ring"
+                    },
+                    {
+                        "name": "Yampi Desert - Djinni Room Chest",
+                        "ref": "Weyard/Yampi Desert/Djinni Room Chest"
+                    },
+                    {
+                        "name": "Yampi Desert - Buried Item",
+                        "ref": "Weyard/Yampi Desert/Buried Item"
+                    },
+                    {
+                        "name": "Yampi Desert - Reveal Circle",
+                        "ref": "Weyard/Yampi Desert/Reveal Circle"
+                    },
+                    {
+                        "name": "Yampi Desert - Trainer's Whip",
+                        "ref": "Weyard/Yampi Desert/Trainer's Whip"
+                    },
+                    {
+                        "name": "Yampi Desert - Sand Flow Cave South",
+                        "ref": "Weyard/Yampi Desert/Sand Flow Cave South"
+                    },
+                    {
+                        "name": "Yampi Desert - Sand Flow Cave North",
+                        "ref": "Weyard/Yampi Desert/Sand Flow Cave North"
+                    },
+                    {
+                        "name": "Yampi Desert - Yampi Desert Cave Entrance",
+                        "ref": "Weyard/Yampi Desert/Yampi Desert Cave Entrance"
+                    },
+                    {
+                        "name": "Yampi Desert - Scoop Gem",
+                        "ref": "Weyard/Yampi Desert/Scoop Gem"
+                    },
+                    {
+                        "name": "North-West Ledge - Barrel",
+                        "ref": "Weyard/Garoh/North-West Ledge/Barrel"
+                    },
+                    {
+                        "name": "North-West Ledge House - Jar",
+                        "ref": "Weyard/Garoh/North-West Ledge House/Jar"
+                    },
+                    {
+                        "name": "Inn - Jar",
+                        "ref": "Weyard/Garoh/Inn/Jar"
+                    },
+                    {
+                        "name": "Garoh - Jupiter Djinni Ether",
+                        "ref": "Weyard/Garoh/Jupiter Djinni Ether"
+                    },
+                    {
+                        "name": "Garoh - Ledge Chest",
+                        "ref": "Weyard/Garoh/Ledge Chest"
+                    },
+                    {
+                        "name": "Garoh - South-East Barrel",
+                        "ref": "Weyard/Garoh/South-East Barrel"
+                    },
+                    {
+                        "name": "Kibombo Mountains - Jupiter Djinni Waft",
+                        "ref": "Weyard/Kibombo Mountains/Jupiter Djinni Waft"
+                    },
+                    {
+                        "name": "Kibombo Mountains - North Screen",
+                        "ref": "Weyard/Kibombo Mountains/North Screen"
+                    },
+                    {
+                        "name": "Kibombo Mountains - North Screen Two",
+                        "ref": "Weyard/Kibombo Mountains/North Screen Two"
+                    },
+                    {
+                        "name": "Kibombo Mountains - South Screen",
+                        "ref": "Weyard/Kibombo Mountains/South Screen"
+                    },
+                    {
+                        "name": "Kibombo Mountains - North Screen Cave",
+                        "ref": "Weyard/Kibombo Mountains/North Screen Cave"
+                    },
+                    {
+                        "name": "North-East Hut - Barrel",
+                        "ref": "Weyard/Apojii Islands/North-East Hut/Barrel"
+                    },
+                    {
+                        "name": "Apojii Islands - Jupiter Djinni Haze",
+                        "ref": "Weyard/Apojii Islands/Jupiter Djinni Haze"
+                    },
+                    {
+                        "name": "Apojii Islands - South-East Weeds",
+                        "ref": "Weyard/Apojii Islands/South-East Weeds"
+                    },
+                    {
+                        "name": "Apojii Islands - South Weeds",
+                        "ref": "Weyard/Apojii Islands/South Weeds"
+                    },
+                    {
+                        "name": "Apojii Islands - South-West Jar",
+                        "ref": "Weyard/Apojii Islands/South-West Jar"
+                    },
+                    {
+                        "name": "Apojii Islands - Gaia Falls Weeds",
+                        "ref": "Weyard/Apojii Islands/Gaia Falls Weeds"
+                    },
+                    {
+                        "name": "Southwest of Tundaria Tower - Jupiter Djinni Wheeze",
+                        "ref": "Weyard/Southwest of Tundaria Tower/Jupiter Djinni Wheeze"
+                    },
+                    {
+                        "name": "Trial Road Side Path - Jupiter Djinni Gasp",
+                        "ref": "Weyard/Shaman Village/Trial Road Side Path/Jupiter Djinni Gasp"
+                    },
+                    {
+                        "name": "Moapa's House - Barrel",
+                        "ref": "Weyard/Shaman Village/Moapa's House/Barrel"
+                    },
+                    {
+                        "name": "Inn - Jar",
+                        "ref": "Weyard/Shaman Village/Inn/Jar"
+                    },
+                    {
+                        "name": "Fortune Teller's Tent - Jar",
+                        "ref": "Weyard/Shaman Village/Fortune Teller's Tent/Jar"
+                    },
+                    {
+                        "name": "Shaman Village - Jupiter Djinni Aroma",
+                        "ref": "Weyard/Shaman Village/Jupiter Djinni Aroma"
+                    },
+                    {
+                        "name": "Shaman Village - Moapa fight",
+                        "ref": "Weyard/Shaman Village/Moapa fight"
+                    },
+                    {
+                        "name": "Shaman Village - Next to Moapa's House",
+                        "ref": "Weyard/Shaman Village/Next to Moapa's House"
+                    },
+                    {
+                        "name": "Shaman Village - East Ledge Barrel",
+                        "ref": "Weyard/Shaman Village/East Ledge Barrel"
+                    },
+                    {
+                        "name": "Shaman Village - Sand Wall",
+                        "ref": "Weyard/Shaman Village/Sand Wall"
+                    },
+                    {
+                        "name": "Shaman Village - Trial Road Cleared",
+                        "ref": "Weyard/Shaman Village/Trial Road Cleared"
+                    },
+                    {
+                        "name": "West Wing - Mimic",
+                        "ref": "Weyard/Jupiter Lighthouse/West Wing/Mimic"
+                    },
+                    {
+                        "name": "West Wing - Blue Key",
+                        "ref": "Weyard/Jupiter Lighthouse/West Wing/Blue Key"
+                    },
+                    {
+                        "name": "West Wing - Middle Room",
+                        "ref": "Weyard/Jupiter Lighthouse/West Wing/Middle Room"
+                    },
+                    {
+                        "name": "West Wing - Middle Room Two",
+                        "ref": "Weyard/Jupiter Lighthouse/West Wing/Middle Room Two"
+                    },
+                    {
+                        "name": "East Wing - Nightmare Room",
+                        "ref": "Weyard/Jupiter Lighthouse/East Wing/Nightmare Room"
+                    },
+                    {
+                        "name": "East Wing - Hover Room",
+                        "ref": "Weyard/Jupiter Lighthouse/East Wing/Hover Room"
+                    },
+                    {
+                        "name": "Jupiter Lighthouse - Jupiter Djinni Whorl",
+                        "ref": "Weyard/Jupiter Lighthouse/Jupiter Djinni Whorl"
+                    },
+                    {
+                        "name": "Jupiter Lighthouse - Entrance Weeds",
+                        "ref": "Weyard/Jupiter Lighthouse/Entrance Weeds"
+                    },
+                    {
+                        "name": "Jupiter Lighthouse - Rolling Pillar Room",
+                        "ref": "Weyard/Jupiter Lighthouse/Rolling Pillar Room"
+                    },
+                    {
+                        "name": "Jupiter Lighthouse - East Wing Approach",
+                        "ref": "Weyard/Jupiter Lighthouse/East Wing Approach"
+                    },
+                    {
+                        "name": "Jupiter Lighthouse - Reveal Circle",
+                        "ref": "Weyard/Jupiter Lighthouse/Reveal Circle"
+                    },
+                    {
+                        "name": "Jupiter Lighthouse - Jumping Pillar Room",
+                        "ref": "Weyard/Jupiter Lighthouse/Jumping Pillar Room"
+                    },
+                    {
+                        "name": "Jupiter Lighthouse - Red Key",
+                        "ref": "Weyard/Jupiter Lighthouse/Red Key"
+                    },
+                    {
+                        "name": "Loho - Jupiter Djinni Lull",
+                        "ref": "Weyard/Loho/Jupiter Djinni Lull"
+                    },
+                    {
+                        "name": "Loho - South Buried Item",
+                        "ref": "Weyard/Loho/South Buried Item"
+                    },
+                    {
+                        "name": "Loho - Half-buried Item",
+                        "ref": "Weyard/Loho/Half-buried Item"
+                    },
+                    {
+                        "name": "Loho - Item Under Boulder",
+                        "ref": "Weyard/Loho/Item Under Boulder"
+                    },
+                    {
+                        "name": "Loho - South-East Barrel",
+                        "ref": "Weyard/Loho/South-East Barrel"
+                    },
+                    {
+                        "name": "Gaia Rock - Serpent Fight",
+                        "ref": "Weyard/Gaia Rock/Serpent Fight"
+                    },
+                    {
+                        "name": "Gaia Rock - Cliff Ledge Chest",
+                        "ref": "Weyard/Gaia Rock/Cliff Ledge Chest"
+                    },
+                    {
+                        "name": "Gaia Rock - Dancing Idol",
+                        "ref": "Weyard/Gaia Rock/Dancing Idol"
+                    },
+                    {
+                        "name": "Gaia Rock - Summit Chest",
+                        "ref": "Weyard/Gaia Rock/Summit Chest"
+                    },
+                    {
+                        "name": "Gaia Rock - Maze Items",
+                        "ref": "Weyard/Gaia Rock/Maze Items"
+                    },
+                    {
+                        "name": "Gaia Rock - Maze Items Two",
+                        "ref": "Weyard/Gaia Rock/Maze Items Two"
+                    },
+                    {
+                        "name": "Gaia Rock - Cloud Brand",
+                        "ref": "Weyard/Gaia Rock/Cloud Brand"
+                    },
+                    {
+                        "name": "Gaia Rock - Sand Tablet",
+                        "ref": "Weyard/Gaia Rock/Sand Tablet"
+                    },
+                    {
+                        "name": "Sea of Time - Poseidon fight",
+                        "ref": "Weyard/Sea of Time/Poseidon fight"
+                    },
+                    {
+                        "name": "Entrance - Barrel",
+                        "ref": "Weyard/Lemurian Ship/Entrance/Barrel"
+                    },
+                    {
+                        "name": "Large Room - Box",
+                        "ref": "Weyard/Lemurian Ship/Large Room/Box"
+                    },
+                    {
+                        "name": "Aqua Hydra Room - Barrel",
+                        "ref": "Weyard/Lemurian Ship/Aqua Hydra Room/Barrel"
+                    },
+                    {
+                        "name": "Lemurian Ship - Aqua Hydra fight",
+                        "ref": "Weyard/Lemurian Ship/Aqua Hydra fight"
+                    },
+                    {
+                        "name": "Lemurian Ship - Engine Room",
+                        "ref": "Weyard/Lemurian Ship/Engine Room"
+                    },
+                    {
+                        "name": "Lemurian Ship - Frost Pillar",
+                        "ref": "Weyard/Lemurian Ship/Frost Pillar"
+                    },
+                    {
+                        "name": "Lemurian Ship - Submerged Chest",
+                        "ref": "Weyard/Lemurian Ship/Submerged Chest"
+                    },
+                    {
+                        "name": "Jupiter_Lighthouse Aeri - Agatio and Karst fight",
+                        "ref": "Weyard/Jupiter_Lighthouse Aeri/Agatio and Karst fight"
+                    },
+                    {
+                        "name": "Inn - Barrel",
+                        "ref": "Weyard/Daila/Inn/Barrel"
+                    },
+                    {
+                        "name": "Corner House - Jar",
+                        "ref": "Weyard/Daila/Corner House/Jar"
+                    },
+                    {
+                        "name": "Mayor's House - Jar",
+                        "ref": "Weyard/Daila/Mayor's House/Jar"
+                    },
+                    {
+                        "name": "Daila - North-East Jar",
+                        "ref": "Weyard/Daila/North-East Jar"
+                    },
+                    {
+                        "name": "Daila - South-West Barrel",
+                        "ref": "Weyard/Daila/South-West Barrel"
+                    },
+                    {
+                        "name": "Daila - Buried Item",
+                        "ref": "Weyard/Daila/Buried Item"
+                    },
+                    {
+                        "name": "Daila - Sea God's Tear",
+                        "ref": "Weyard/Daila/Sea God's Tear"
+                    },
+                    {
+                        "name": "House - Barrel",
+                        "ref": "Weyard/N Osenia Islet/House/Barrel"
+                    },
+                    {
+                        "name": "N Osenia Islet - Cow's Treasure",
+                        "ref": "Weyard/N Osenia Islet/Cow's Treasure"
+                    },
+                    {
+                        "name": "Madra Catacombs - Main Cave East",
+                        "ref": "Weyard/Madra Catacombs/Main Cave East"
+                    },
+                    {
+                        "name": "Madra Catacombs - Main Cave South",
+                        "ref": "Weyard/Madra Catacombs/Main Cave South"
+                    },
+                    {
+                        "name": "Madra Catacombs - Ruins West Room",
+                        "ref": "Weyard/Madra Catacombs/Ruins West Room"
+                    },
+                    {
+                        "name": "Madra Catacombs - Ruin Key",
+                        "ref": "Weyard/Madra Catacombs/Ruin Key"
+                    },
+                    {
+                        "name": "Madra Catacombs - Tremor Bit",
+                        "ref": "Weyard/Madra Catacombs/Tremor Bit"
+                    },
+                    {
+                        "name": "Madra Catacombs - Moloch Tablet",
+                        "ref": "Weyard/Madra Catacombs/Moloch Tablet"
+                    },
+                    {
+                        "name": "Osenia Cliffs - Pirate Sword",
+                        "ref": "Weyard/Osenia Cliffs/Pirate Sword"
+                    },
+                    {
+                        "name": "Eastern Alhafra - Jar",
+                        "ref": "Weyard/Alhafra/Eastern Alhafra/Jar"
+                    },
+                    {
+                        "name": "Upper Long House - Barrel",
+                        "ref": "Weyard/Alhafra/Upper Long House/Barrel"
+                    },
+                    {
+                        "name": "Inn - Upstairs Jar",
+                        "ref": "Weyard/Alhafra/Inn/Upstairs Jar"
+                    },
+                    {
+                        "name": "Jail - Jar",
+                        "ref": "Weyard/Alhafra/Jail/Jar"
+                    },
+                    {
+                        "name": "Alhafra - Reveal Circle",
+                        "ref": "Weyard/Alhafra/Reveal Circle"
+                    },
+                    {
+                        "name": "Alhafra - West Jar",
+                        "ref": "Weyard/Alhafra/West Jar"
+                    },
+                    {
+                        "name": "Alhafra - North-East Jar",
+                        "ref": "Weyard/Alhafra/North-East Jar"
+                    },
+                    {
+                        "name": "Alhafra - Outside Mayor's House East Box",
+                        "ref": "Weyard/Alhafra/Outside Mayor's House East Box"
+                    },
+                    {
+                        "name": "Alhafra - Cave Left Side",
+                        "ref": "Weyard/Alhafra/Cave Left Side"
+                    },
+                    {
+                        "name": "Alhafra - Cave Left Side Two",
+                        "ref": "Weyard/Alhafra/Cave Left Side Two"
+                    },
+                    {
+                        "name": "Alhafra - Cave Left Side Three",
+                        "ref": "Weyard/Alhafra/Cave Left Side Three"
+                    },
+                    {
+                        "name": "Alhafra - Cave Right Side",
+                        "ref": "Weyard/Alhafra/Cave Right Side"
+                    },
+                    {
+                        "name": "Alhafra - Cave Right Side Two",
+                        "ref": "Weyard/Alhafra/Cave Right Side Two"
+                    },
+                    {
+                        "name": "Alhafra - Cave Right Side Three",
+                        "ref": "Weyard/Alhafra/Cave Right Side Three"
+                    },
+                    {
+                        "name": "House - Jar",
+                        "ref": "Weyard/E Tundaria Islet/House/Jar"
+                    },
+                    {
+                        "name": "E Tundaria Islet - Penguin's Treasure",
+                        "ref": "Weyard/E Tundaria Islet/Penguin's Treasure"
+                    },
+                    {
+                        "name": "First Room - Lower Left",
+                        "ref": "Weyard/Air's Rock Exterior/First Room/Lower Left"
+                    },
+                    {
+                        "name": "First Room - Middle",
+                        "ref": "Weyard/Air's Rock Exterior/First Room/Middle"
+                    },
+                    {
+                        "name": "First Room - Top Right",
+                        "ref": "Weyard/Air's Rock Exterior/First Room/Top Right"
+                    },
+                    {
+                        "name": "First Room - Mimic",
+                        "ref": "Weyard/Air's Rock Exterior/First Room/Mimic"
+                    },
+                    {
+                        "name": "Air's Rock Exterior - Frost Ledge",
+                        "ref": "Weyard/Air's Rock Exterior/Frost Ledge"
+                    },
+                    {
+                        "name": "Air's Rock Exterior - Cliff Ascent",
+                        "ref": "Weyard/Air's Rock Exterior/Cliff Ascent"
+                    },
+                    {
+                        "name": "Air's Rock Exterior - Summit Chest",
+                        "ref": "Weyard/Air's Rock Exterior/Summit Chest"
+                    },
+                    {
+                        "name": "Left Path - Blue 2 Room",
+                        "ref": "Weyard/Air's Rock Interior/Left Path/Blue 2 Room"
+                    },
+                    {
+                        "name": "Left Path - Blue 5 Room",
+                        "ref": "Weyard/Air's Rock Interior/Left Path/Blue 5 Room"
+                    },
+                    {
+                        "name": "Left Path - Blue 4 Room",
+                        "ref": "Weyard/Air's Rock Interior/Left Path/Blue 4 Room"
+                    },
+                    {
+                        "name": "Air's Rock Interior - Top Floor",
+                        "ref": "Weyard/Air's Rock Interior/Top Floor"
+                    },
+                    {
+                        "name": "Air's Rock Interior - Right Path",
+                        "ref": "Weyard/Air's Rock Interior/Right Path"
+                    },
+                    {
+                        "name": "Air's Rock Interior - Tablet Room Chest",
+                        "ref": "Weyard/Air's Rock Interior/Tablet Room Chest"
+                    },
+                    {
+                        "name": "Air's Rock Interior - Flora Tablet",
+                        "ref": "Weyard/Air's Rock Interior/Flora Tablet"
+                    },
+                    {
+                        "name": "Air's Rock Interior - Reveal Tablet",
+                        "ref": "Weyard/Air's Rock Interior/Reveal Tablet"
+                    },
+                    {
+                        "name": "North-West House - Jar",
+                        "ref": "Weyard/Naribwe/North-West House/Jar"
+                    },
+                    {
+                        "name": "Inn - Jar",
+                        "ref": "Weyard/Naribwe/Inn/Jar"
+                    },
+                    {
+                        "name": "Naribwe - Thorn Crown",
+                        "ref": "Weyard/Naribwe/Thorn Crown"
+                    },
+                    {
+                        "name": "Naribwe - Reveal Circle",
+                        "ref": "Weyard/Naribwe/Reveal Circle"
+                    },
+                    {
+                        "name": "Naribwe - South-West Jar",
+                        "ref": "Weyard/Naribwe/South-West Jar"
+                    },
+                    {
+                        "name": "North-West House - Jar",
+                        "ref": "Weyard/Kibombo/North-West House/Jar"
+                    },
+                    {
+                        "name": "Inn - Upstairs Barrel",
+                        "ref": "Weyard/Kibombo/Inn/Upstairs Barrel"
+                    },
+                    {
+                        "name": "Kibombo - West Jar",
+                        "ref": "Weyard/Kibombo/West Jar"
+                    },
+                    {
+                        "name": "Kibombo - Recruit Piers",
+                        "ref": "Weyard/Kibombo/Recruit Piers"
+                    },
+                    {
+                        "name": "West Indra Islet - North-West Barrel",
+                        "ref": "Weyard/West Indra Islet/North-West Barrel"
+                    },
+                    {
+                        "name": "West Indra Islet - Dog's Treasure",
+                        "ref": "Weyard/West Indra Islet/Dog's Treasure"
+                    },
+                    {
+                        "name": "SE Angara Islet - South-East Box",
+                        "ref": "Weyard/SE Angara Islet/South-East Box"
+                    },
+                    {
+                        "name": "SE Angara Islet - Bird's Treasure",
+                        "ref": "Weyard/SE Angara Islet/Bird's Treasure"
+                    },
+                    {
+                        "name": "House - Barrel",
+                        "ref": "Weyard/Sea of Time Islet/House/Barrel"
+                    },
+                    {
+                        "name": "Inn - Box",
+                        "ref": "Weyard/Yallam/Inn/Box"
+                    },
+                    {
+                        "name": "Sunshine's Smithy - Barrel",
+                        "ref": "Weyard/Yallam/Sunshine's Smithy/Barrel"
+                    },
+                    {
+                        "name": "Yallam - East Weeds",
+                        "ref": "Weyard/Yallam/East Weeds"
+                    },
+                    {
+                        "name": "Yallam - North Jar",
+                        "ref": "Weyard/Yallam/North Jar"
+                    },
+                    {
+                        "name": "Yallam - Central Ledge Weeds",
+                        "ref": "Weyard/Yallam/Central Ledge Weeds"
+                    },
+                    {
+                        "name": "Yallam - Masamune",
+                        "ref": "Weyard/Yallam/Masamune"
+                    },
+                    {
+                        "name": "North-West Cave - Half-buried Item",
+                        "ref": "Weyard/Taopo Swamp/North-West Cave/Half-buried Item"
+                    },
+                    {
+                        "name": "South-East Cave - Half-buried Item",
+                        "ref": "Weyard/Taopo Swamp/South-East Cave/Half-buried Item"
+                    },
+                    {
+                        "name": "South-East Cave - Weeds",
+                        "ref": "Weyard/Taopo Swamp/South-East Cave/Weeds"
+                    },
+                    {
+                        "name": "Taopo Swamp - First Screen",
+                        "ref": "Weyard/Taopo Swamp/First Screen"
+                    },
+                    {
+                        "name": "Taopo Swamp - Magma Chamber",
+                        "ref": "Weyard/Taopo Swamp/Magma Chamber"
+                    },
+                    {
+                        "name": "Taopo Swamp - Star Dust",
+                        "ref": "Weyard/Taopo Swamp/Star Dust"
+                    },
+                    {
+                        "name": "1F - Top Ledge",
+                        "ref": "Weyard/Aqua Rock Exterior/1F/Top Ledge"
+                    },
+                    {
+                        "name": "1F - Middle Ledge",
+                        "ref": "Weyard/Aqua Rock Exterior/1F/Middle Ledge"
+                    },
+                    {
+                        "name": "2F - Frost Pillars",
+                        "ref": "Weyard/Aqua Rock Exterior/2F/Frost Pillars"
+                    },
+                    {
+                        "name": "2F - Waterfall",
+                        "ref": "Weyard/Aqua Rock Exterior/2F/Waterfall"
+                    },
+                    {
+                        "name": "1F - Left Side",
+                        "ref": "Weyard/Aqua Rock Interior/1F/Left Side"
+                    },
+                    {
+                        "name": "1F - Mimic",
+                        "ref": "Weyard/Aqua Rock Interior/1F/Mimic"
+                    },
+                    {
+                        "name": "1F - Aquarius Stone",
+                        "ref": "Weyard/Aqua Rock Interior/1F/Aquarius Stone"
+                    },
+                    {
+                        "name": "1F - Main Room Left",
+                        "ref": "Weyard/Aqua Rock Interior/1F/Main Room Left"
+                    },
+                    {
+                        "name": "1F - Submerged Chest",
+                        "ref": "Weyard/Aqua Rock Interior/1F/Submerged Chest"
+                    },
+                    {
+                        "name": "3F - Entrance Room South",
+                        "ref": "Weyard/Aqua Rock Interior/3F/Entrance Room South"
+                    },
+                    {
+                        "name": "3F - Steam Ledge",
+                        "ref": "Weyard/Aqua Rock Interior/3F/Steam Ledge"
+                    },
+                    {
+                        "name": "2F - Waterfall",
+                        "ref": "Weyard/Aqua Rock Interior/2F/Waterfall"
+                    },
+                    {
+                        "name": "Aqua Rock Interior - Parch Tablet",
+                        "ref": "Weyard/Aqua Rock Interior/Parch Tablet"
+                    },
+                    {
+                        "name": "Cave - Upper Ledge Jar",
+                        "ref": "Weyard/Champa/Cave/Upper Ledge Jar"
+                    },
+                    {
+                        "name": "Inn - Box",
+                        "ref": "Weyard/Champa/Inn/Box"
+                    },
+                    {
+                        "name": "1F Cave House - Barrel",
+                        "ref": "Weyard/Champa/1F Cave House/Barrel"
+                    },
+                    {
+                        "name": "Champa - Reveal Circle",
+                        "ref": "Weyard/Champa/Reveal Circle"
+                    },
+                    {
+                        "name": "Champa - West Box",
+                        "ref": "Weyard/Champa/West Box"
+                    },
+                    {
+                        "name": "Champa - East Box",
+                        "ref": "Weyard/Champa/East Box"
+                    },
+                    {
+                        "name": "Champa - Trident",
+                        "ref": "Weyard/Champa/Trident"
+                    },
+                    {
+                        "name": "Left Path - Sand Path",
+                        "ref": "Weyard/Ankohl Ruins/Left Path/Sand Path"
+                    },
+                    {
+                        "name": "Left Path - Filled Pit",
+                        "ref": "Weyard/Ankohl Ruins/Left Path/Filled Pit"
+                    },
+                    {
+                        "name": "Left Path - Winding Path",
+                        "ref": "Weyard/Ankohl Ruins/Left Path/Winding Path"
+                    },
+                    {
+                        "name": "Left Path - Thanatos Mace",
+                        "ref": "Weyard/Ankohl Ruins/Left Path/Thanatos Mace"
+                    },
+                    {
+                        "name": "Right Path - Behind Ivy",
+                        "ref": "Weyard/Ankohl Ruins/Right Path/Behind Ivy"
+                    },
+                    {
+                        "name": "Right Path - After Roadblock",
+                        "ref": "Weyard/Ankohl Ruins/Right Path/After Roadblock"
+                    },
+                    {
+                        "name": "Right Path - Ledge Chest",
+                        "ref": "Weyard/Ankohl Ruins/Right Path/Ledge Chest"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Entrance Rooms",
+                        "ref": "Weyard/Ankohl Ruins/Entrance Rooms"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Entrance Rooms Two",
+                        "ref": "Weyard/Ankohl Ruins/Entrance Rooms Two"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Entrance Rooms Three",
+                        "ref": "Weyard/Ankohl Ruins/Entrance Rooms Three"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Entrance Rooms Four",
+                        "ref": "Weyard/Ankohl Ruins/Entrance Rooms Four"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Entrance Rooms Five",
+                        "ref": "Weyard/Ankohl Ruins/Entrance Rooms Five"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Entrance Rooms Six",
+                        "ref": "Weyard/Ankohl Ruins/Entrance Rooms Six"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Face Rooms 2 and 7",
+                        "ref": "Weyard/Ankohl Ruins/Face Rooms 2 and 7"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Face Rooms 1 and 6",
+                        "ref": "Weyard/Ankohl Ruins/Face Rooms 1 and 6"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Face Rooms 2 and 7 Two",
+                        "ref": "Weyard/Ankohl Ruins/Face Rooms 2 and 7 Two"
+                    },
+                    {
+                        "name": "Ankohl Ruins - Left Prong",
+                        "ref": "Weyard/Ankohl Ruins/Left Prong"
+                    },
+                    {
+                        "name": "Castle - 1F East Room Barrel",
+                        "ref": "Weyard/Lemuria/Castle/1F East Room Barrel"
+                    },
+                    {
+                        "name": "Lemuria - South Buried Item",
+                        "ref": "Weyard/Lemuria/South Buried Item"
+                    },
+                    {
+                        "name": "Lemuria - East Buried Item",
+                        "ref": "Weyard/Lemuria/East Buried Item"
+                    },
+                    {
+                        "name": "Lemuria - South-East Weeds",
+                        "ref": "Weyard/Lemuria/South-East Weeds"
+                    },
+                    {
+                        "name": "Lemuria - Central Buried Item",
+                        "ref": "Weyard/Lemuria/Central Buried Item"
+                    },
+                    {
+                        "name": "Lemuria - North Buried Item",
+                        "ref": "Weyard/Lemuria/North Buried Item"
+                    },
+                    {
+                        "name": "Lemuria - Grindstone",
+                        "ref": "Weyard/Lemuria/Grindstone"
+                    },
+                    {
+                        "name": "Lemuria - Eclipse Tablet",
+                        "ref": "Weyard/Lemuria/Eclipse Tablet"
+                    },
+                    {
+                        "name": "Gondowan Settlement - Cave Item",
+                        "ref": "Weyard/Gondowan Settlement/Cave Item"
+                    },
+                    {
+                        "name": "Gondowan Settlement - Graveyard",
+                        "ref": "Weyard/Gondowan Settlement/Graveyard"
+                    },
+                    {
+                        "name": "1F - Ledge",
+                        "ref": "Weyard/Magma Rock Exterior/1F/Ledge"
+                    },
+                    {
+                        "name": "2F West - Bottom",
+                        "ref": "Weyard/Magma Rock Exterior/2F West/Bottom"
+                    },
+                    {
+                        "name": "2F West - Top",
+                        "ref": "Weyard/Magma Rock Exterior/2F West/Top"
+                    },
+                    {
+                        "name": "4F - West Side",
+                        "ref": "Weyard/Magma Rock Interior/4F/West Side"
+                    },
+                    {
+                        "name": "3F - West Side",
+                        "ref": "Weyard/Magma Rock Interior/3F/West Side"
+                    },
+                    {
+                        "name": "2F - Center",
+                        "ref": "Weyard/Magma Rock Interior/2F/Center"
+                    },
+                    {
+                        "name": "2F - North-East Sluice",
+                        "ref": "Weyard/Magma Rock Interior/2F/North-East Sluice"
+                    },
+                    {
+                        "name": "Magma Rock Interior - Entrance Mimic",
+                        "ref": "Weyard/Magma Rock Interior/Entrance Mimic"
+                    },
+                    {
+                        "name": "Magma Rock Interior - Magma Ball",
+                        "ref": "Weyard/Magma Rock Interior/Magma Ball"
+                    },
+                    {
+                        "name": "Magma Rock Interior - Blaze Tablet",
+                        "ref": "Weyard/Magma Rock Interior/Blaze Tablet"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Lower) - Elevator Chest",
+                        "ref": "Weyard/Mars Lighthouse (Lower)/Elevator Chest"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Lower) - Teleport Lapis",
+                        "ref": "Weyard/Mars Lighthouse (Lower)/Teleport Lapis"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Lower) - Entrance Mimic",
+                        "ref": "Weyard/Mars Lighthouse (Lower)/Entrance Mimic"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Lower) - Orihalcon",
+                        "ref": "Weyard/Mars Lighthouse (Lower)/Orihalcon"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Lower) - Valkyrie Mail",
+                        "ref": "Weyard/Mars Lighthouse (Lower)/Valkyrie Mail"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Lower) - Sol Blade",
+                        "ref": "Weyard/Mars Lighthouse (Lower)/Sol Blade"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Lower) - Flame Dragons",
+                        "ref": "Weyard/Mars Lighthouse (Lower)/Flame Dragons"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Upper) - Chest outside Mars Wing",
+                        "ref": "Weyard/Mars Lighthouse (Upper)/Chest outside Mars Wing"
+                    },
+                    {
+                        "name": "Mars Lighthouse (Upper) - Chest inside Jupiter Wing",
+                        "ref": "Weyard/Mars Lighthouse (Upper)/Chest inside Jupiter Wing"
+                    },
+                    {
+                        "name": "Anemos Inner Sanctum - Cracked Tile Fall Room",
+                        "ref": "Weyard/Anemos Inner Sanctum/Cracked Tile Fall Room"
+                    },
+                    {
+                        "name": "Anemos Inner Sanctum - After 3rd Clone Room",
+                        "ref": "Weyard/Anemos Inner Sanctum/After 3rd Clone Room"
+                    },
+                    {
+                        "name": "Anemos Inner Sanctum - Charon Tablet",
+                        "ref": "Weyard/Anemos Inner Sanctum/Charon Tablet"
+                    },
+                    {
+                        "name": "Anemos Inner Sanctum - Iris Tablet",
+                        "ref": "Weyard/Anemos Inner Sanctum/Iris Tablet"
+                    },
+                    {
+                        "name": "Indra Cavern - Zagan Tablet",
+                        "ref": "Weyard/Indra Cavern/Zagan Tablet"
+                    },
+                    {
+                        "name": "Osenia Cavern - Megaera Tablet",
+                        "ref": "Weyard/Osenia Cavern/Megaera Tablet"
+                    },
+                    {
+                        "name": "Angara Cavern - Haures Tablet",
+                        "ref": "Weyard/Angara Cavern/Haures Tablet"
+                    },
+                    {
+                        "name": "Atteka Cavern - Coatlicue Tablet",
+                        "ref": "Weyard/Atteka Cavern/Coatlicue Tablet"
+                    },
+                    {
+                        "name": "Sunken Item (Sea of Time) - Sunken Item",
+                        "ref": "Weyard/Sunken Item (Sea of Time)/Sunken Item"
+                    },
+                    {
+                        "name": "Sunken Item (Treasure Isle) - Sunken Item",
+                        "ref": "Weyard/Sunken Item (Treasure Isle)/Sunken Item"
+                    },
+                    {
+                        "name": "Sunken Item (Tundaria) - Sunken Item",
+                        "ref": "Weyard/Sunken Item (Tundaria)/Sunken Item"
+                    },
+                    {
+                        "name": "Sunken Item (Hesperia) - Sunken Item",
+                        "ref": "Weyard/Sunken Item (Hesperia)/Sunken Item"
+                    },
+                    {
+                        "name": "Sunken Item (Atteka) - Sunken Item",
+                        "ref": "Weyard/Sunken Item (Atteka)/Sunken Item"
+                    },
+                    {
+                        "name": "Gabomba Reward - Gabomba Reward",
+                        "ref": "Weyard/Gabomba Reward/Gabomba Reward"
+                    },
+                    {
+                        "name": "Felix - Shaman's Rod",
+                        "ref": "Weyard/Felix/Shaman's Rod"
+                    },
+                    {
+                        "name": "Felix - Growth",
+                        "ref": "Weyard/Felix/Growth"
+                    },
+                    {
+                        "name": "Sheba - Mind Read",
+                        "ref": "Weyard/Sheba/Mind Read"
+                    },
+                    {
+                        "name": "Sheba - Whirlwind",
+                        "ref": "Weyard/Sheba/Whirlwind"
+                    },
+                    {
+                        "name": "Mia - Carry Stone",
+                        "ref": "Weyard/Mia/Carry Stone"
+                    },
+                    {
+                        "name": "Ivan - Lifting Gem",
+                        "ref": "Weyard/Ivan/Lifting Gem"
+                    },
+                    {
+                        "name": "Garet - Orb of Force",
+                        "ref": "Weyard/Garet/Orb of Force"
+                    },
+                    {
+                        "name": "Isaac - Catch Beads",
+                        "ref": "Weyard/Isaac/Catch Beads"
+                    },
+                    {
+                        "name": "Piers - Douse Drop",
+                        "ref": "Weyard/Piers/Douse Drop"
+                    },
+                    {
+                        "name": "Piers - Frost Jewel",
+                        "ref": "Weyard/Piers/Frost Jewel"
+                    },
+                    {
+                        "name": "Idejima - Recruit Jenna",
+                        "ref": "Weyard/Idejima/Recruit Jenna"
+                    },
+                    {
+                        "name": "Idejima - Recruit Sheba",
+                        "ref": "Weyard/Idejima/Recruit Sheba"
+                    },
+                    {
+                        "name": "Weyard - Alhafra Briggs",
+                        "ref": "Weyard/Alhafra Briggs"
+                    },
+                    {
+                        "name": "Weyard - Alhafra Prison Briggs",
+                        "ref": "Weyard/Alhafra Prison Briggs"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1099",
+                        "y": "457",
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

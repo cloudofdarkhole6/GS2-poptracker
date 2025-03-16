@@ -1,0 +1,30 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Weyard",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Weyard"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Weyard",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Weyard"
+                    ]
+                }
+            }
+        ]
+    }
+}

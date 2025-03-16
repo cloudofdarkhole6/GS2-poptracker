@@ -1,0 +1,1662 @@
+[
+    {
+        "name": "ramses",
+        "type": "toggle",
+        "img": "images/items/ramses.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "ramses"
+    },
+    {
+        "name": "nereid",
+        "type": "toggle",
+        "img": "images/items/nereid.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "nereid"
+    },
+    {
+        "name": "eddy",
+        "type": "toggle",
+        "img": "images/items/eddy.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "eddy"
+    },
+    {
+        "name": "garet",
+        "type": "toggle",
+        "img": "images/items/garet.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "garet"
+    },
+    {
+        "name": "chill",
+        "type": "toggle",
+        "img": "images/items/chill.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "chill"
+    },
+    {
+        "name": "lashpebble",
+        "type": "toggle",
+        "img": "images/items/lashpebble.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "lashpebble"
+    },
+    {
+        "name": "reflux",
+        "type": "toggle",
+        "img": "images/items/reflux.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "reflux"
+    },
+    {
+        "name": "fury",
+        "type": "toggle",
+        "img": "images/items/fury.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "fury"
+    },
+    {
+        "name": "haures",
+        "type": "toggle",
+        "img": "images/items/haures.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "haures"
+    },
+    {
+        "name": "gale",
+        "type": "toggle",
+        "img": "images/items/gale.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "gale"
+    },
+    {
+        "name": "charon",
+        "type": "toggle",
+        "img": "images/items/charon.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "charon"
+    },
+    {
+        "name": "jupiterbeaconlit",
+        "type": "toggle",
+        "img": "images/items/jupiterbeaconlit.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "jupiterbeaconlit"
+    },
+    {
+        "name": "orbofforce",
+        "type": "toggle",
+        "img": "images/items/orbofforce.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "orbofforce"
+    },
+    {
+        "name": "salt",
+        "type": "toggle",
+        "img": "images/items/salt.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "salt"
+    },
+    {
+        "name": "megaera",
+        "type": "toggle",
+        "img": "images/items/megaera.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "megaera"
+    },
+    {
+        "name": "steel",
+        "type": "toggle",
+        "img": "images/items/steel.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "steel"
+    },
+    {
+        "name": "milk",
+        "type": "toggle",
+        "img": "images/items/milk.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "milk"
+    },
+    {
+        "name": "teleportlapis",
+        "type": "toggle",
+        "img": "images/items/teleportlapis.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "teleportlapis"
+    },
+    {
+        "name": "flora",
+        "type": "toggle",
+        "img": "images/items/flora.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "flora"
+    },
+    {
+        "name": "flint",
+        "type": "toggle",
+        "img": "images/items/flint.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "flint"
+    },
+    {
+        "name": "tonic",
+        "type": "toggle",
+        "img": "images/items/tonic.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "tonic"
+    },
+    {
+        "name": "growth",
+        "type": "toggle",
+        "img": "images/items/growth.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "growth"
+    },
+    {
+        "name": "centerprong",
+        "type": "toggle",
+        "img": "images/items/centerprong.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "centerprong"
+    },
+    {
+        "name": "crystal",
+        "type": "toggle",
+        "img": "images/items/crystal.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "crystal"
+    },
+    {
+        "name": "prettystone",
+        "type": "toggle",
+        "img": "images/items/prettystone.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "prettystone"
+    },
+    {
+        "name": "lull",
+        "type": "toggle",
+        "img": "images/items/lull.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "lull"
+    },
+    {
+        "name": "isaac",
+        "type": "toggle",
+        "img": "images/items/isaac.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "isaac"
+    },
+    {
+        "name": "flash",
+        "type": "toggle",
+        "img": "images/items/flash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "flash"
+    },
+    {
+        "name": "granite",
+        "type": "toggle",
+        "img": "images/items/granite.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "granite"
+    },
+    {
+        "name": "jenna",
+        "type": "toggle",
+        "img": "images/items/jenna.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "jenna"
+    },
+    {
+        "name": "liftinggem",
+        "type": "toggle",
+        "img": "images/items/liftinggem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "liftinggem"
+    },
+    {
+        "name": "boreas",
+        "type": "toggle",
+        "img": "images/items/boreas.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "boreas"
+    },
+    {
+        "name": "coal",
+        "type": "toggle",
+        "img": "images/items/coal.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "coal"
+    },
+    {
+        "name": "magmaball",
+        "type": "toggle",
+        "img": "images/items/magmaball.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "magmaball"
+    },
+    {
+        "name": "wheeze",
+        "type": "toggle",
+        "img": "images/items/wheeze.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "wheeze"
+    },
+    {
+        "name": "spring",
+        "type": "toggle",
+        "img": "images/items/spring.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "spring"
+    },
+    {
+        "name": "shaman'srod",
+        "type": "toggle",
+        "img": "images/items/shaman'srod.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "shaman'srod"
+    },
+    {
+        "name": "whirlwind",
+        "type": "toggle",
+        "img": "images/items/whirlwind.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "whirlwind"
+    },
+    {
+        "name": "neptune",
+        "type": "toggle",
+        "img": "images/items/neptune.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "neptune"
+    },
+    {
+        "name": "azul",
+        "type": "toggle",
+        "img": "images/items/azul.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "azul"
+    },
+    {
+        "name": "mercury",
+        "type": "toggle",
+        "img": "images/items/mercury.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "mercury"
+    },
+    {
+        "name": "carrystone",
+        "type": "toggle",
+        "img": "images/items/carrystone.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "carrystone"
+    },
+    {
+        "name": "dousedrop",
+        "type": "toggle",
+        "img": "images/items/dousedrop.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "dousedrop"
+    },
+    {
+        "name": "burstbrooch",
+        "type": "toggle",
+        "img": "images/items/burstbrooch.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "burstbrooch"
+    },
+    {
+        "name": "poundcube",
+        "type": "toggle",
+        "img": "images/items/poundcube.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "poundcube"
+    },
+    {
+        "name": "atalanta",
+        "type": "toggle",
+        "img": "images/items/atalanta.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "atalanta"
+    },
+    {
+        "name": "mia",
+        "type": "toggle",
+        "img": "images/items/mia.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "mia"
+    },
+    {
+        "name": "torch",
+        "type": "toggle",
+        "img": "images/items/torch.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "torch"
+    },
+    {
+        "name": "haltgem",
+        "type": "toggle",
+        "img": "images/items/haltgem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "haltgem"
+    },
+    {
+        "name": "haze",
+        "type": "toggle",
+        "img": "images/items/haze.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "haze"
+    },
+    {
+        "name": "rightprong",
+        "type": "toggle",
+        "img": "images/items/rightprong.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "rightprong"
+    },
+    {
+        "name": "breath",
+        "type": "toggle",
+        "img": "images/items/breath.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "breath"
+    },
+    {
+        "name": "sheba",
+        "type": "toggle",
+        "img": "images/items/sheba.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "sheba"
+    },
+    {
+        "name": "aroma",
+        "type": "toggle",
+        "img": "images/items/aroma.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "aroma"
+    },
+    {
+        "name": "mist",
+        "type": "toggle",
+        "img": "images/items/mist.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "mist"
+    },
+    {
+        "name": "flower",
+        "type": "toggle",
+        "img": "images/items/flower.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "flower"
+    },
+    {
+        "name": "geode",
+        "type": "toggle",
+        "img": "images/items/geode.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "geode"
+    },
+    {
+        "name": "piers",
+        "type": "toggle",
+        "img": "images/items/piers.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "piers"
+    },
+    {
+        "name": "frostjewel",
+        "type": "toggle",
+        "img": "images/items/frostjewel.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "frostjewel"
+    },
+    {
+        "name": "fizz",
+        "type": "toggle",
+        "img": "images/items/fizz.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "fizz"
+    },
+    {
+        "name": "mold",
+        "type": "toggle",
+        "img": "images/items/mold.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "mold"
+    },
+    {
+        "name": "ether",
+        "type": "toggle",
+        "img": "images/items/ether.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "ether"
+    },
+    {
+        "name": "grindstone",
+        "type": "toggle",
+        "img": "images/items/grindstone.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "grindstone"
+    },
+    {
+        "name": "poseidondefeated",
+        "type": "toggle",
+        "img": "images/items/poseidondefeated.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "poseidondefeated"
+    },
+    {
+        "name": "parch",
+        "type": "toggle",
+        "img": "images/items/parch.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "parch"
+    },
+    {
+        "name": "redcloth",
+        "type": "toggle",
+        "img": "images/items/redcloth.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "redcloth"
+    },
+    {
+        "name": "forge",
+        "type": "toggle",
+        "img": "images/items/forge.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "forge"
+    },
+    {
+        "name": "zagan",
+        "type": "toggle",
+        "img": "images/items/zagan.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "zagan"
+    },
+    {
+        "name": "ruinkey",
+        "type": "toggle",
+        "img": "images/items/ruinkey.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "ruinkey"
+    },
+    {
+        "name": "blaze",
+        "type": "toggle",
+        "img": "images/items/blaze.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "blaze"
+    },
+    {
+        "name": "rime",
+        "type": "toggle",
+        "img": "images/items/rime.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "rime"
+    },
+    {
+        "name": "bane",
+        "type": "toggle",
+        "img": "images/items/bane.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "bane"
+    },
+    {
+        "name": "hail",
+        "type": "toggle",
+        "img": "images/items/hail.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "hail"
+    },
+    {
+        "name": "aquariusstone",
+        "type": "toggle",
+        "img": "images/items/aquariusstone.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "aquariusstone"
+    },
+    {
+        "name": "sour",
+        "type": "toggle",
+        "img": "images/items/sour.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "sour"
+    },
+    {
+        "name": "catastrophe",
+        "type": "toggle",
+        "img": "images/items/catastrophe.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "catastrophe"
+    },
+    {
+        "name": "marsstar",
+        "type": "toggle",
+        "img": "images/items/marsstar.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "marsstar"
+    },
+    {
+        "name": "blackcrystal",
+        "type": "toggle",
+        "img": "images/items/blackcrystal.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "blackcrystal"
+    },
+    {
+        "name": "briggsescaped",
+        "type": "toggle",
+        "img": "images/items/briggsescaped.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "briggsescaped"
+    },
+    {
+        "name": "scorch",
+        "type": "toggle",
+        "img": "images/items/scorch.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "scorch"
+    },
+    {
+        "name": "bluekey",
+        "type": "toggle",
+        "img": "images/items/bluekey.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "bluekey"
+    },
+    {
+        "name": "core",
+        "type": "toggle",
+        "img": "images/items/core.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "core"
+    },
+    {
+        "name": "iris",
+        "type": "toggle",
+        "img": "images/items/iris.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "iris"
+    },
+    {
+        "name": "catchbeads",
+        "type": "toggle",
+        "img": "images/items/catchbeads.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "catchbeads"
+    },
+    {
+        "name": "mud",
+        "type": "toggle",
+        "img": "images/items/mud.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "mud"
+    },
+    {
+        "name": "venus",
+        "type": "toggle",
+        "img": "images/items/venus.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "venus"
+    },
+    {
+        "name": "fog",
+        "type": "toggle",
+        "img": "images/items/fog.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "fog"
+    },
+    {
+        "name": "hoverjade",
+        "type": "toggle",
+        "img": "images/items/hoverjade.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "hoverjade"
+    },
+    {
+        "name": "coatlique",
+        "type": "toggle",
+        "img": "images/items/coatlique.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "coatlique"
+    },
+    {
+        "name": "trident",
+        "type": "toggle",
+        "img": "images/items/trident.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "trident"
+    },
+    {
+        "name": "redkey",
+        "type": "toggle",
+        "img": "images/items/redkey.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "redkey"
+    },
+    {
+        "name": "cloakball",
+        "type": "toggle",
+        "img": "images/items/cloakball.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "cloakball"
+    },
+    {
+        "name": "fever",
+        "type": "toggle",
+        "img": "images/items/fever.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "fever"
+    },
+    {
+        "name": "cyclonechip",
+        "type": "toggle",
+        "img": "images/items/cyclonechip.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "cyclonechip"
+    },
+    {
+        "name": "tinder",
+        "type": "toggle",
+        "img": "images/items/tinder.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "tinder"
+    },
+    {
+        "name": "cannon",
+        "type": "toggle",
+        "img": "images/items/cannon.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "cannon"
+    },
+    {
+        "name": "serac",
+        "type": "toggle",
+        "img": "images/items/serac.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "serac"
+    },
+    {
+        "name": "breeze",
+        "type": "toggle",
+        "img": "images/items/breeze.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "breeze"
+    },
+    {
+        "name": "daedalus",
+        "type": "toggle",
+        "img": "images/items/daedalus.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "daedalus"
+    },
+    {
+        "name": "briggsdefeated",
+        "type": "toggle",
+        "img": "images/items/briggsdefeated.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "briggsdefeated"
+    },
+    {
+        "name": "ulysses",
+        "type": "toggle",
+        "img": "images/items/ulysses.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "ulysses"
+    },
+    {
+        "name": "moapadefeated",
+        "type": "toggle",
+        "img": "images/items/moapadefeated.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "moapadefeated"
+    },
+    {
+        "name": "tremorbit",
+        "type": "toggle",
+        "img": "images/items/tremorbit.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "tremorbit"
+    },
+    {
+        "name": "steam",
+        "type": "toggle",
+        "img": "images/items/steam.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "steam"
+    },
+    {
+        "name": "blitz",
+        "type": "toggle",
+        "img": "images/items/blitz.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "blitz"
+    },
+    {
+        "name": "balm",
+        "type": "toggle",
+        "img": "images/items/balm.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "balm"
+    },
+    {
+        "name": "petra",
+        "type": "toggle",
+        "img": "images/items/petra.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "petra"
+    },
+    {
+        "name": "waft",
+        "type": "toggle",
+        "img": "images/items/waft.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "waft"
+    },
+    {
+        "name": "seagod'stear",
+        "type": "toggle",
+        "img": "images/items/seagod'stear.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "seagod'stear"
+    },
+    {
+        "name": "mars",
+        "type": "toggle",
+        "img": "images/items/mars.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "mars"
+    },
+    {
+        "name": "kite",
+        "type": "toggle",
+        "img": "images/items/kite.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "kite"
+    },
+    {
+        "name": "meteor",
+        "type": "toggle",
+        "img": "images/items/meteor.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "meteor"
+    },
+    {
+        "name": "eclipse",
+        "type": "toggle",
+        "img": "images/items/eclipse.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "eclipse"
+    },
+    {
+        "name": "kindle",
+        "type": "toggle",
+        "img": "images/items/kindle.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "kindle"
+    },
+    {
+        "name": "reveal",
+        "type": "toggle",
+        "img": "images/items/reveal.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "reveal"
+    },
+    {
+        "name": "iron",
+        "type": "toggle",
+        "img": "images/items/iron.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "iron"
+    },
+    {
+        "name": "squall",
+        "type": "toggle",
+        "img": "images/items/squall.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "squall"
+    },
+    {
+        "name": "ground",
+        "type": "toggle",
+        "img": "images/items/ground.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "ground"
+    },
+    {
+        "name": "shade",
+        "type": "toggle",
+        "img": "images/items/shade.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "shade"
+    },
+    {
+        "name": "gel",
+        "type": "toggle",
+        "img": "images/items/gel.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "gel"
+    },
+    {
+        "name": "cybele",
+        "type": "toggle",
+        "img": "images/items/cybele.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "cybele"
+    },
+    {
+        "name": "leftprong",
+        "type": "toggle",
+        "img": "images/items/leftprong.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "leftprong"
+    },
+    {
+        "name": "zephyr",
+        "type": "toggle",
+        "img": "images/items/zephyr.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "zephyr"
+    },
+    {
+        "name": "sand",
+        "type": "toggle",
+        "img": "images/items/sand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "sand"
+    },
+    {
+        "name": "vine",
+        "type": "toggle",
+        "img": "images/items/vine.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "vine"
+    },
+    {
+        "name": "serpentdefeated",
+        "type": "toggle",
+        "img": "images/items/serpentdefeated.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "serpentdefeated"
+    },
+    {
+        "name": "kirin",
+        "type": "toggle",
+        "img": "images/items/kirin.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "kirin"
+    },
+    {
+        "name": "wingsofanemos",
+        "type": "toggle",
+        "img": "images/items/wingsofanemos.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "wingsofanemos"
+    },
+    {
+        "name": "shine",
+        "type": "toggle",
+        "img": "images/items/shine.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "shine"
+    },
+    {
+        "name": "ivan",
+        "type": "toggle",
+        "img": "images/items/ivan.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "ivan"
+    },
+    {
+        "name": "fugue",
+        "type": "toggle",
+        "img": "images/items/fugue.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "fugue"
+    },
+    {
+        "name": "moloch",
+        "type": "toggle",
+        "img": "images/items/moloch.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "moloch"
+    },
+    {
+        "name": "thor",
+        "type": "toggle",
+        "img": "images/items/thor.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "thor"
+    },
+    {
+        "name": "laughingfungus",
+        "type": "toggle",
+        "img": "images/items/laughingfungus.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "laughingfungus"
+    },
+    {
+        "name": "procne",
+        "type": "toggle",
+        "img": "images/items/procne.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "procne"
+    },
+    {
+        "name": "judgment",
+        "type": "toggle",
+        "img": "images/items/judgment.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "judgment"
+    },
+    {
+        "name": "jupiter",
+        "type": "toggle",
+        "img": "images/items/jupiter.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "jupiter"
+    },
+    {
+        "name": "tiamat",
+        "type": "toggle",
+        "img": "images/items/tiamat.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "tiamat"
+    },
+    {
+        "name": "meld",
+        "type": "toggle",
+        "img": "images/items/meld.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "meld"
+    },
+    {
+        "name": "whorl",
+        "type": "toggle",
+        "img": "images/items/whorl.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "whorl"
+    },
+    {
+        "name": "sap",
+        "type": "toggle",
+        "img": "images/items/sap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "sap"
+    },
+    {
+        "name": "dancingidol",
+        "type": "toggle",
+        "img": "images/items/dancingidol.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "dancingidol"
+    },
+    {
+        "name": "spark",
+        "type": "toggle",
+        "img": "images/items/spark.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "spark"
+    },
+    {
+        "name": "victory",
+        "type": "toggle",
+        "img": "images/items/victory.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "victory"
+    },
+    {
+        "name": "luckymedal",
+        "type": "toggle",
+        "img": "images/items/luckymedal.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "luckymedal"
+    },
+    {
+        "name": "scoopgem",
+        "type": "toggle",
+        "img": "images/items/scoopgem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "scoopgem"
+    },
+    {
+        "name": "corona",
+        "type": "toggle",
+        "img": "images/items/corona.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "corona"
+    },
+    {
+        "name": "gust",
+        "type": "toggle",
+        "img": "images/items/gust.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "gust"
+    },
+    {
+        "name": "smog",
+        "type": "toggle",
+        "img": "images/items/smog.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "smog"
+    },
+    {
+        "name": "gasp",
+        "type": "toggle",
+        "img": "images/items/gasp.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "gasp"
+    },
+    {
+        "name": "luff",
+        "type": "toggle",
+        "img": "images/items/luff.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "luff"
+    },
+    {
+        "name": "echo",
+        "type": "toggle",
+        "img": "images/items/echo.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "echo"
+    },
+    {
+        "name": "li'lturtle",
+        "type": "toggle",
+        "img": "images/items/li'lturtle.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "li'lturtle"
+    },
+    {
+        "name": "healingfungus",
+        "type": "toggle",
+        "img": "images/items/healingfungus.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "healingfungus"
+    },
+    {
+        "name": "sleet",
+        "type": "toggle",
+        "img": "images/items/sleet.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "sleet"
+    },
+    {
+        "name": "dew",
+        "type": "toggle",
+        "img": "images/items/dew.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "dew"
+    },
+    {
+        "name": "mindread",
+        "type": "toggle",
+        "img": "images/items/mindread.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "mindread"
+    },
+    {
+        "name": "char",
+        "type": "toggle",
+        "img": "images/items/char.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "char"
+    },
+    {
+        "name": "flamedragons-defeated",
+        "type": "toggle",
+        "img": "images/items/flamedragons-defeated.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "flamedragons-defeated"
+    },
+    {
+        "name": "gabombastatuecompleted",
+        "type": "toggle",
+        "img": "images/items/gabombastatuecompleted.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "gabombastatuecompleted"
+    },
+    {
+        "name": "ember",
+        "type": "toggle",
+        "img": "images/items/ember.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "ember"
+    },
+    {
+        "name": "spritz",
+        "type": "toggle",
+        "img": "images/items/spritz.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "spritz"
+    },
+    {
+        "name": "quartz",
+        "type": "toggle",
+        "img": "images/items/quartz.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "quartz"
+    },
+    {
+        "name": "aquahydradefeated",
+        "type": "toggle",
+        "img": "images/items/aquahydradefeated.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "aquahydradefeated"
+    },
+    {
+        "name": "ship",
+        "type": "toggle",
+        "img": "images/items/ship.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "ship"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "update"
+    }
+]
