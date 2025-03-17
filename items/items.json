@@ -50,16 +50,6 @@
         "codes": "chill"
     },
     {
-        "name": "lashpebble",
-        "type": "toggle",
-        "img": "images/items/lashpebble.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "lashpebble"
-    },
-    {
         "name": "reflux",
         "type": "toggle",
         "img": "images/items/reflux.png",
@@ -110,26 +100,6 @@
         "codes": "charon"
     },
     {
-        "name": "jupiterbeaconlit",
-        "type": "toggle",
-        "img": "images/items/jupiterbeaconlit.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "jupiterbeaconlit"
-    },
-    {
-        "name": "orbofforce",
-        "type": "toggle",
-        "img": "images/items/orbofforce.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "orbofforce"
-    },
-    {
         "name": "salt",
         "type": "toggle",
         "img": "images/items/salt.png",
@@ -170,16 +140,6 @@
         "codes": "milk"
     },
     {
-        "name": "teleportlapis",
-        "type": "toggle",
-        "img": "images/items/teleportlapis.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "teleportlapis"
-    },
-    {
         "name": "flora",
         "type": "toggle",
         "img": "images/items/flora.png",
@@ -208,16 +168,6 @@
         "initial_active_state": false,
         "overlay_align": true,
         "codes": "tonic"
-    },
-    {
-        "name": "growth",
-        "type": "toggle",
-        "img": "images/items/growth.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "growth"
     },
     {
         "name": "centerprong",
@@ -300,16 +250,6 @@
         "codes": "jenna"
     },
     {
-        "name": "liftinggem",
-        "type": "toggle",
-        "img": "images/items/liftinggem.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "liftinggem"
-    },
-    {
         "name": "boreas",
         "type": "toggle",
         "img": "images/items/boreas.png",
@@ -370,16 +310,6 @@
         "codes": "shaman'srod"
     },
     {
-        "name": "whirlwind",
-        "type": "toggle",
-        "img": "images/items/whirlwind.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "whirlwind"
-    },
-    {
         "name": "neptune",
         "type": "toggle",
         "img": "images/items/neptune.png",
@@ -408,46 +338,6 @@
         "initial_active_state": false,
         "overlay_align": true,
         "codes": "mercury"
-    },
-    {
-        "name": "carrystone",
-        "type": "toggle",
-        "img": "images/items/carrystone.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "carrystone"
-    },
-    {
-        "name": "dousedrop",
-        "type": "toggle",
-        "img": "images/items/dousedrop.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "dousedrop"
-    },
-    {
-        "name": "burstbrooch",
-        "type": "toggle",
-        "img": "images/items/burstbrooch.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "burstbrooch"
-    },
-    {
-        "name": "poundcube",
-        "type": "toggle",
-        "img": "images/items/poundcube.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "poundcube"
     },
     {
         "name": "atalanta",
@@ -580,16 +470,6 @@
         "codes": "piers"
     },
     {
-        "name": "frostjewel",
-        "type": "toggle",
-        "img": "images/items/frostjewel.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "frostjewel"
-    },
-    {
         "name": "fizz",
         "type": "toggle",
         "img": "images/items/fizz.png",
@@ -620,16 +500,6 @@
         "codes": "ether"
     },
     {
-        "name": "grindstone",
-        "type": "toggle",
-        "img": "images/items/grindstone.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "grindstone"
-    },
-    {
         "name": "poseidondefeated",
         "type": "toggle",
         "img": "images/items/poseidondefeated.png",
@@ -638,16 +508,6 @@
         "initial_active_state": false,
         "overlay_align": true,
         "codes": "poseidondefeated"
-    },
-    {
-        "name": "parch",
-        "type": "toggle",
-        "img": "images/items/parch.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "parch"
     },
     {
         "name": "redcloth",
@@ -688,16 +548,6 @@
         "initial_active_state": false,
         "overlay_align": true,
         "codes": "ruinkey"
-    },
-    {
-        "name": "blaze",
-        "type": "toggle",
-        "img": "images/items/blaze.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "blaze"
     },
     {
         "name": "rime",
@@ -780,16 +630,6 @@
         "codes": "blackcrystal"
     },
     {
-        "name": "briggsescaped",
-        "type": "toggle",
-        "img": "images/items/briggsescaped.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "briggsescaped"
-    },
-    {
         "name": "scorch",
         "type": "toggle",
         "img": "images/items/scorch.png",
@@ -870,16 +710,6 @@
         "codes": "fog"
     },
     {
-        "name": "hoverjade",
-        "type": "toggle",
-        "img": "images/items/hoverjade.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "hoverjade"
-    },
-    {
         "name": "coatlique",
         "type": "toggle",
         "img": "images/items/coatlique.png",
@@ -930,16 +760,6 @@
         "codes": "fever"
     },
     {
-        "name": "cyclonechip",
-        "type": "toggle",
-        "img": "images/items/cyclonechip.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "cyclonechip"
-    },
-    {
         "name": "tinder",
         "type": "toggle",
         "img": "images/items/tinder.png",
@@ -948,16 +768,6 @@
         "initial_active_state": false,
         "overlay_align": true,
         "codes": "tinder"
-    },
-    {
-        "name": "cannon",
-        "type": "toggle",
-        "img": "images/items/cannon.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "cannon"
     },
     {
         "name": "serac",
@@ -990,16 +800,6 @@
         "codes": "daedalus"
     },
     {
-        "name": "briggsdefeated",
-        "type": "toggle",
-        "img": "images/items/briggsdefeated.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "briggsdefeated"
-    },
-    {
         "name": "ulysses",
         "type": "toggle",
         "img": "images/items/ulysses.png",
@@ -1008,26 +808,6 @@
         "initial_active_state": false,
         "overlay_align": true,
         "codes": "ulysses"
-    },
-    {
-        "name": "moapadefeated",
-        "type": "toggle",
-        "img": "images/items/moapadefeated.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "moapadefeated"
-    },
-    {
-        "name": "tremorbit",
-        "type": "toggle",
-        "img": "images/items/tremorbit.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "tremorbit"
     },
     {
         "name": "steam",
@@ -1140,16 +920,6 @@
         "codes": "kindle"
     },
     {
-        "name": "reveal",
-        "type": "toggle",
-        "img": "images/items/reveal.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "reveal"
-    },
-    {
         "name": "iron",
         "type": "toggle",
         "img": "images/items/iron.png",
@@ -1230,16 +1000,6 @@
         "codes": "zephyr"
     },
     {
-        "name": "sand",
-        "type": "toggle",
-        "img": "images/items/sand.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "sand"
-    },
-    {
         "name": "vine",
         "type": "toggle",
         "img": "images/items/vine.png",
@@ -1250,16 +1010,6 @@
         "codes": "vine"
     },
     {
-        "name": "serpentdefeated",
-        "type": "toggle",
-        "img": "images/items/serpentdefeated.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "serpentdefeated"
-    },
-    {
         "name": "kirin",
         "type": "toggle",
         "img": "images/items/kirin.png",
@@ -1268,16 +1018,6 @@
         "initial_active_state": false,
         "overlay_align": true,
         "codes": "kirin"
-    },
-    {
-        "name": "wingsofanemos",
-        "type": "toggle",
-        "img": "images/items/wingsofanemos.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "wingsofanemos"
     },
     {
         "name": "shine",
@@ -1450,16 +1190,6 @@
         "codes": "luckymedal"
     },
     {
-        "name": "scoopgem",
-        "type": "toggle",
-        "img": "images/items/scoopgem.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "scoopgem"
-    },
-    {
         "name": "corona",
         "type": "toggle",
         "img": "images/items/corona.png",
@@ -1560,16 +1290,6 @@
         "codes": "dew"
     },
     {
-        "name": "mindread",
-        "type": "toggle",
-        "img": "images/items/mindread.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "mindread"
-    },
-    {
         "name": "char",
         "type": "toggle",
         "img": "images/items/char.png",
@@ -1578,26 +1298,6 @@
         "initial_active_state": false,
         "overlay_align": true,
         "codes": "char"
-    },
-    {
-        "name": "flamedragons-defeated",
-        "type": "toggle",
-        "img": "images/items/flamedragons-defeated.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "flamedragons-defeated"
-    },
-    {
-        "name": "gabombastatuecompleted",
-        "type": "toggle",
-        "img": "images/items/gabombastatuecompleted.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "gabombastatuecompleted"
     },
     {
         "name": "ember",
@@ -1638,16 +1338,6 @@
         "initial_active_state": false,
         "overlay_align": true,
         "codes": "aquahydradefeated"
-    },
-    {
-        "name": "ship",
-        "type": "toggle",
-        "img": "images/items/ship.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "ship"
     },
     {
         "name": "update",

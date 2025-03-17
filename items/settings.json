@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Item shuffle",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/settings/chest.png",
+                "codes": "item_shuffle_setting,shuffle_chests_tablets",
+                "inherit_codes": false,
+                "name": "Shuffle all chests and tablets"
+            },
+            {
+                "img": "images/settings/chest.png",
+                "codes": "item_shuffle_setting,shuffle_everything",
+                "inherit_codes": false,
+                "name": "Shuffle everything"
+            }
+        ]
+    }
+]

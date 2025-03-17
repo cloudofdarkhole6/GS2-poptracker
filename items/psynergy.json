@@ -1,0 +1,212 @@
+[
+    {
+        "name": "lashpebble",
+        "type": "toggle",
+        "img": "images/psynergy/lashpebble.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "lashpebble"
+    },
+    {
+        "name": "orbofforce",
+        "type": "toggle",
+        "img": "images/psynergy/orbofforce.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "orbofforce"
+    },
+    {
+        "name": "teleportlapis",
+        "type": "toggle",
+        "img": "images/psynergy/teleportlapis.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "teleportlapis"
+    },
+    {
+        "name": "growth",
+        "type": "toggle",
+        "img": "images/psynergy/growth.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "growth"
+    },
+    {
+        "name": "liftinggem",
+        "type": "toggle",
+        "img": "images/psynergy/liftinggem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "liftinggem"
+    },
+    {
+        "name": "whirlwind",
+        "type": "toggle",
+        "img": "images/psynergy/whirlwind.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "whirlwind"
+    },
+    {
+        "name": "carrystone",
+        "type": "toggle",
+        "img": "images/psynergy/carrystone.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "carrystone"
+    },
+    {
+        "name": "dousedrop",
+        "type": "toggle",
+        "img": "images/psynergy/dousedrop.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "dousedrop"
+    },
+    {
+        "name": "burstbrooch",
+        "type": "toggle",
+        "img": "images/psynergy/burstbrooch.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "burstbrooch"
+    },
+    {
+        "name": "poundcube",
+        "type": "toggle",
+        "img": "images/psynergy/poundcube.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "poundcube"
+    },
+    {
+        "name": "frostjewel",
+        "type": "toggle",
+        "img": "images/psynergy/frostjewel.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "frostjewel"
+    },
+    {
+        "name": "grindstone",
+        "type": "toggle",
+        "img": "images/psynergy/grindstone.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "grindstone"
+    },
+    {
+        "name": "parch",
+        "type": "toggle",
+        "img": "images/psynergy/parch.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "parch"
+    },
+    {
+        "name": "blaze",
+        "type": "toggle",
+        "img": "images/psynergy/blaze.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "blaze"
+    },
+    {
+        "name": "hoverjade",
+        "type": "toggle",
+        "img": "images/psynergy/hoverjade.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "hoverjade"
+    },
+    {
+        "name": "cyclonechip",
+        "type": "toggle",
+        "img": "images/psynergy/cyclonechip.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "cyclonechip"
+    },
+    {
+        "name": "tremorbit",
+        "type": "toggle",
+        "img": "images/psynergy/tremorbit.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "tremorbit"
+    },
+    {
+        "name": "reveal",
+        "type": "toggle",
+        "img": "images/psynergy/reveal.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "reveal"
+    },
+    {
+        "name": "sand",
+        "type": "toggle",
+        "img": "images/psynergy/sand.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "sand"
+    },
+    {
+        "name": "scoopgem",
+        "type": "toggle",
+        "img": "images/psynergy/scoopgem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "scoopgem"
+    },
+    {
+        "name": "mindread",
+        "type": "toggle",
+        "img": "images/psynergy/mindread.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "mindread"
+    }
+]

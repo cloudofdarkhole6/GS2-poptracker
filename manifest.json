@@ -2,21 +2,16 @@
     "name": "Golden Sun The Lost Age Archipelago",
     "game_name": "Golden Sun The Lost Age",
     "package_version": "0.0.1",
-    "package_uid": "golden sun the lost age_ap",
-    "author": "builder_script",
+    "package_uid": "gstla_ap",
+    "author": "Cloudofdarkhole6",
     "variants": {
         "Map Tracker": {
             "display_name": "Map Tracker",
             "flags": [
                 "ap"
             ]
-        },
-        "Items Only": {
-            "display_name": "Items Only",
-            "flags": [
-                "ap"
-            ]
         }
     },
+    "versions_url": "https://raw.githubusercontent.com/cloudofdarkhole6/GS2-poptracker/main/versions.json",
     "min_poptracker_version": "0.27.0"
 }

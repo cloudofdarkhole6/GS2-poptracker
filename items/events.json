@@ -1,0 +1,102 @@
+[
+    {
+        "name": "jupiterbeaconlit",
+        "type": "toggle",
+        "img": "images/events/jupiterbeaconlit.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "jupiterbeaconlit"
+    },
+    {
+        "name": "briggsescaped",
+        "type": "toggle",
+        "img": "images/events/briggsescaped.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "briggsescaped"
+    },
+    {
+        "name": "cannon",
+        "type": "toggle",
+        "img": "images/events/cannon.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "cannon"
+    },
+    {
+        "name": "briggsdefeated",
+        "type": "toggle",
+        "img": "images/events/briggsdefeated.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "briggsdefeated"
+    },
+    {
+        "name": "moapadefeated",
+        "type": "toggle",
+        "img": "images/events/moapadefeated.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "moapadefeated"
+    },
+    {
+        "name": "serpentdefeated",
+        "type": "toggle",
+        "img": "images/events/serpentdefeated.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "serpentdefeated"
+    },
+    {
+        "name": "wingsofanemos",
+        "type": "toggle",
+        "img": "images/events/wingsofanemos.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "wingsofanemos"
+    },
+    {
+        "name": "marslit",
+        "type": "toggle",
+        "img": "images/events/marslit.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "marslit"
+    },
+    {
+        "name": "gabombastatuecompleted",
+        "type": "toggle",
+        "img": "images/events/gabombastatuecompleted.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "gabombastatuecompleted"
+    },
+    {
+        "name": "ship",
+        "type": "toggle",
+        "img": "images/events/ship.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": true,
+        "codes": "ship"
+    }
+]
