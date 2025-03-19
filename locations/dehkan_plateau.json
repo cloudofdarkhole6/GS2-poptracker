@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Dehkan Plateau",
+    "chest_unopened_img": "/images/chest.png",
+    "chest_opened_img": "/images/chest_open.png",
+    "access_rules": [" "],
+    "sections": [
+      {
+        "name": "Mars Djinni Cannon"
+      },
+      {
+        "name": "First Screen"
+      },
+      {
+        "name": "Second Screen Ledge"
+      },
+      {
+        "name": "Second Screen Drop-down"
+      },
+      {
+        "name": "Third Screen"
+      },
+      {
+        "name": "Lash Required Chest"
+      },
+      {
+        "name": "Pound Cube"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Weyard",
+        "x": "280",
+        "y": "230"
+      }
+    ]
+  }
+]

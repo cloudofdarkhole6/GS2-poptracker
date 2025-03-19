@@ -1,7 +1,7 @@
 [
     {
         "name": "Weyard",
-        "location_size": 20,
+        "location_size": 4,
         "location_border_thickness": 1,
         "img": "images/maps/Weyard.png"
     }

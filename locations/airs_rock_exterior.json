@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Air's Rock Exterior",
+    "access_rules": [" "],
+"sections": [
+      {
+        "name": "First Room - Lower Left"
+      },
+      {
+        "name": "First Room - Middle"
+      },
+      {
+        "name": "First Room - Top Right"
+      },
+      {
+        "name": "First Room - Mimic"
+      },
+      {
+        "name": "Frost Ledge"
+      },
+      {
+        "name": "Cliff Ascent"
+      },
+      {
+        "name": "Summit Chest"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Weyard",
+        "x": "346",
+        "y": "278"
+      }
+    ]
+  }
+]

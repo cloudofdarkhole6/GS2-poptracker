@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Air's Rock Interior",
+    "chest_unopened_img": "/images/chest.png",
+    "chest_opened_img": "/images/chest_open.png",
+    "access_rules": [" "],
+    "sections": [
+      {
+        "name": "Left Path - Blue 2 Room"
+      },
+      {
+        "name": "Left Path - Blue 5 Room"
+      },
+      {
+        "name": "Left Path - Blue 4 Room"
+      },
+      {
+        "name": "Top Floor"
+      },
+      {
+        "name": "Right Path"
+      },
+      {
+        "name": "Tablet Room Chest"
+      },
+      {
+        "name": "Flora Tablet"
+      },
+      {
+        "name": "Reveal Tablet"
+      }
+    ],
+    "map_locations": [
+      {
+        "map": "Weyard",
+        "x": "346",
+        "y": "284"
+      }
+    ]
+  }]
